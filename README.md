@@ -1,5 +1,5 @@
 # DS-Testing
-*Test ideas and code for DS class
+Test ideas and code for DS class
 
 ## Group Members 
 * Maria Clarin - 2501990331 - L3AC
