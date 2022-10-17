@@ -1,1249 +1,1197 @@
 Title,Author,Year,Rating,Raters
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234919
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489512
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234919
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489512
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234919
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489512
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234919
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489512
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605714
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,765"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,768"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,768"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596396
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,768"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596402
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,768"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596402
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,768"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596402
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,768"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596402
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,768"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596402
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,768"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
-Missing,Missing,0,0,0
-Missing,Missing,0,0,0
-The Shining (Paperback),Stephen King,1977,4.25,"1,328,766"
-It (Paperback),Stephen King,1986,4.25,"976,903"
-Dracula (Paperback),Bram Stoker,1897,4.01,"1,116,541"
-Carrie (Mass Market Paperback),Stephen King,1974,3.98,"628,597"
-Pet Sematary (Kindle Edition),Stephen King,1983,4.04,"514,688"
-Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,"1,390,547"
-The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,"234,882"
-'Salem's Lot (Paperback),Stephen King,1975,4.05,"397,461"
-The Stand (Hardcover),Stephen King,1978,4.34,"702,293"
-Misery (Paperback),Stephen King,1987,4.20,"605,689"
-Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,"257,623"
-House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,"151,275"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,"540,127"
-Doctor Sleep (Hardcover),Stephen King,2013,4.12,"233,150"
-World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,"489,768"
-We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,"170,232"
-Cujo (Paperback),Stephen King,1981,3.76,"258,502"
-NOS4A2 (Hardcover),Joe Hill,2013,4.08,"116,575"
-"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,"170,211"
-The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,"209,801"
-Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,"123,385"
-Coraline (Paperback),Neil Gaiman,2002,4.09,"596,366"
-Needful Things (Paperback),Stephen King,1991,3.95,"232,441"
-Christine (Paperback),Stephen King,1983,3.82,"223,656"
-Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,"489,486"
-Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,"102,313"
-Night Shift (Paperback),Stephen King,1978,4.02,"165,410"
-The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,"140,046"
-The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,"53,035"
-The Outsider (Hardcover),Stephen King,2018,3.99,"249,709"
-"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,"127,042"
-Firestarter (Mass Market Paperback),Stephen King,1980,3.90,"211,701"
-A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,"65,146"
-The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,"205,987"
-Cell (Mass Market Paperback),Stephen King,2006,3.66,"210,898"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,"518,173"
-"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,"210,599"
-Horrorstör (Paperback),Grady Hendrix,2014,3.66,"59,702"
-Horns (Hardcover),Joe Hill,2009,3.93,"108,773"
-The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,"1,267,730"
-The Troop (Hardcover),Nick Cutter,2014,3.82,"51,391"
-My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,"66,621"
-The Turn of the Screw (Paperback),Henry James,1898,3.40,"134,837"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,"117,107"
-Bag of Bones (Paperback),Stephen King,1998,3.91,"187,365"
-The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,"140,412"
-Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,"194,747"
-Under the Dome (Hardcover),Stephen King,2009,3.91,"281,872"
-The Dark Half (Paperback),Stephen King,1989,3.80,"134,153"
-Skeleton Crew (Paperback),Stephen King,1985,3.97,"118,213"
+The Shining (Paperback),Stephen King,1977,4.25,1328811
+It (Paperback),Stephen King,1986,4.25,976939
+Dracula (Paperback),Bram Stoker,1897,4.01,1116599
+Carrie (Mass Market Paperback),Stephen King,1974,3.98,628622
+Pet Sematary (Kindle Edition),Stephen King,1983,4.04,514701
+Frankenstein: The 1818 Text (Paperback),Mary Wollstonecraft Shelley,1818,3.84,1390609
+The Haunting of Hill House (Paperback),Shirley Jackson,1959,3.83,234922
+'Salem's Lot (Paperback),Stephen King,1975,4.05,397477
+The Stand (Hardcover),Stephen King,1978,4.34,702309
+Misery (Paperback),Stephen King,1987,4.20,605716
+Mexican Gothic (Hardcover),Silvia Moreno-Garcia,2020,3.68,257691
+House of Leaves (Paperback),Mark Z. Danielewski,2000,4.08,151279
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976,4.01,540147
+Doctor Sleep (Hardcover),Stephen King,2013,4.12,233153
+World War Z: An Oral History of the Zombie War (Hardcover),Max Brooks,2006,4.01,489781
+We Have Always Lived in the Castle (Paperback),Shirley Jackson,1962,3.96,170257
+Cujo (Paperback),Stephen King,1981,3.76,258505
+NOS4A2 (Hardcover),Joe Hill,2013,4.08,116583
+"Bird Box (Bird Box, #1)",Josh Malerman,2014,4.04,170218
+The Exorcist (Mass Market Paperback),William Peter Blatty,1971,4.19,209815
+Heart-Shaped Box (Hardcover),Joe Hill,2007,3.85,123390
+Coraline (Paperback),Neil Gaiman,2002,4.09,596402
+Needful Things (Paperback),Stephen King,1991,3.95,232443
+Christine (Paperback),Stephen King,1983,3.82,223657
+Dr. Jekyll and Mr. Hyde (Paperback),Robert Louis Stevenson,1886,3.83,489513
+Let the Right One In (Hardcover),John Ajvide Lindqvist,2004,4.04,102318
+Night Shift (Paperback),Stephen King,1978,4.02,165415
+The Southern Book Club's Guide to Slaying Vampires (Kindle Edition),Grady Hendrix,2020,3.83,140111
+The Only Good Indians (Hardcover),Stephen Graham Jones,2020,3.72,53055
+The Outsider (Hardcover),Stephen King,2018,3.99,249723
+"Rosemary's Baby (Rosemary's Baby, #1)",Ira Levin,1967,4.02,127052
+Firestarter (Mass Market Paperback),Stephen King,1980,3.90,211705
+A Head Full of Ghosts (Hardcover),Paul Tremblay,2015,3.80,65155
+The Dead Zone (Mass Market Paperback),Stephen King,1979,3.95,205987
+Cell (Mass Market Paperback),Stephen King,2006,3.66,210899
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,1988,4.23,518179
+"The Girl with All the Gifts (The Girl with All the Gifts, #1)",M.R. Carey,2014,3.95,210601
+Horrorstör (Paperback),Grady Hendrix,2014,3.66,59723
+Horns (Hardcover),Joe Hill,2009,3.93,108776
+The Picture of Dorian Gray (Paperback),Oscar Wilde,1890,4.11,1267786
+The Troop (Hardcover),Nick Cutter,2014,3.82,51405
+My Best Friend's Exorcism (Kindle Edition),Grady Hendrix,2016,3.98,66666
+The Turn of the Screw (Paperback),Henry James,1898,3.40,134849
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury,1962,3.92,117116
+Bag of Bones (Paperback),Stephen King,1998,3.91,187369
+The Tommyknockers (Mass Market Paperback),Stephen King,1987,3.58,140413
+Thinner (Mass Market Paperback),Richard Bachman,1984,3.75,194749
+Under the Dome (Hardcover),Stephen King,2009,3.91,281872
+The Dark Half (Paperback),Stephen King,1989,3.80,134156
+Skeleton Crew (Paperback),Stephen King,1985,3.97,118214
 Missing,Missing,0,0,0
 Missing,Missing,0,0,0
