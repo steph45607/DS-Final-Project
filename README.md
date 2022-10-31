@@ -1,5 +1,5 @@
-# DS-Testing
-Test ideas and code for DS class
+# Data Science Final Project
+Test ideas and code for Data Science Final Project
 
 ## Group Members 
 * Maria Clarin - 2501990331 - L3AC
@@ -15,6 +15,8 @@ Test ideas and code for DS class
 * https://www.goodreads.com/book/most_read
 * https://www.goodreads.com/shelf/show/most-read-this-week
 * https://www.nytimes.com/books/best-sellers/
+* https://www.goodreads.com/shelf/show/horror
+* https://www.goodreads.com/user/top_readers
 
 ## Goal
 To know if the increase or decrease of book rating is affected by the top-rated books section.
