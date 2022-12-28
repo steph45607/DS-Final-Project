@@ -1,0 +1,1729 @@
+Author Average Rating,Author Votes,Review Count,Distinct Works,Year,Rating,Raters,cluster
+4.07,1258005,85585,large,old,4.09,large,0
+3.99,4447186,273761,medium,new,3.99,large,0
+3.76,41079,5356,very small,new,3.76,large,0
+4.12,210117,18190,very small,new,4.12,large,0
+4.1,8007938,201434,large,old,4.19,large,0
+3.06,2795,492,small,new,2.93,medium,0
+3.92,374960,5391,average,old,3.91,large,0
+3.96,186338,7255,very small,new,3.97,large,0
+4.09,2906066,278341,average,new,4.33,large,0
+4.06,132342,14887,large,old,4.07,large,0
+4.26,14551657,471013,small,new,3.83,large,0
+3.83,2446525,97595,large,old,3.98,large,0
+4.37,6423128,220105,large,new,4.41,large,0
+3.91,744671,39434,small,new,3.86,large,0
+4.08,273501,24535,small,new,4.05,large,0
+3.77,8484,772,large,new,2.88,small,0
+3.56,82410,10825,very small,new,3.56,large,0
+3.74,378361,20932,average,old,3.72,large,0
+4.0,1200568,43083,large,old,4.01,large,0
+3.97,394763,67494,small,new,4.05,large,0
+3.81,654534,67510,medium,new,3.77,large,0
+4.16,7067589,179295,large,old,4.25,large,0
+4.32,824549,70577,small,new,4.31,large,0
+3.88,394370,33043,medium,new,3.89,large,0
+3.57,37973,4159,small,new,2.9,small,0
+3.78,117164,9890,medium,new,3.74,large,0
+4.05,1909407,216963,small,new,4.24,large,0
+4.1,796599,104007,small,new,3.97,large,0
+2.86,546,140,very small,new,2.86,small,0
+3.85,103339,18161,small,new,3.82,large,0
+4.28,180570,12494,small,new,4.37,large,0
+4.11,386954,15760,large,new,2.41,small,0
+3.84,1638041,74331,average,new,4.19,large,0
+4.01,315623,20932,large,old,4.14,large,0
+4.09,2906066,278341,average,new,4.37,large,0
+4.01,502119,20648,small,new,4.04,large,0
+4.02,5724161,337897,large,new,2.88,medium,0
+3.16,4499,1088,very small,new,2.7,small,0
+2.9,1506,367,very small,new,2.78,medium,0
+4.14,3884933,114661,large,old,4.22,large,0
+3.91,382119,40707,very small,new,3.89,large,0
+4.03,2627214,106464,medium,new,3.96,large,0
+3.81,143146,9525,small,new,2.85,medium,0
+4.04,3486340,218499,large,old,4.13,large,0
+3.27,8713,1592,very small,new,3.27,medium,0
+3.86,7295720,154513,large,old,3.74,large,0
+4.5,1749895,210923,small,new,4.28,large,0
+3.35,417,77,very small,new,2.23,small,0
+3.83,83307,4830,average,new,2.92,medium,0
+3.62,36471,5107,large,new,2.96,small,0
+3.76,84922,1277,very small,new,3.76,large,0
+4.08,91995,11681,small,new,4.08,large,0
+4.07,1745263,82645,small,new,4.25,large,0
+4.14,7226566,450340,large,new,4.1,large,0
+4.24,9637673,874520,medium,new,4.05,large,0
+4.19,1947728,101872,large,old,4.17,large,0
+3.94,223509,26214,small,new,4.05,large,0
+4.34,3015019,42829,average,old,4.32,large,0
+4.09,505672,58592,small,new,3.79,large,0
+4.01,441779,23386,small,old,4.03,large,0
+4.02,152084,20367,very small,new,4.02,large,0
+4.03,250064,34556,small,new,3.96,large,0
+3.91,3609527,121943,large,old,4.07,large,0
+4.27,499209,49084,average,new,4.4,large,0
+4.32,145036,12607,small,new,4.32,large,0
+3.08,15629,2648,very small,new,2.82,medium,0
+3.01,3154,215,small,new,2.92,medium,0
+4.13,820018,23429,large,new,1.98,small,0
+4.0,1200560,43083,large,new,2.8,medium,0
+3.61,87855,7609,medium,new,2.83,medium,0
+4.06,17484985,775861,large,old,3.93,large,0
+2.89,340,137,very small,new,2.81,small,0
+3.92,139559,20546,medium,new,4.26,large,0
+4.35,10073631,175261,large,old,4.52,large,0
+4.24,9639646,874623,medium,new,4.22,large,0
+4.02,466352,21219,average,new,2.97,medium,0
+3.13,19426,3024,very small,new,2.84,medium,0
+3.86,217680,16578,very small,new,3.86,large,0
+4.15,202771,14524,small,new,4.14,large,0
+3.79,719526,44486,average,new,2.63,medium,0
+3.37,234967,12462,small,new,2.84,large,0
+2.68,614,80,very small,new,2.66,small,0
+3.78,102390,8285,large,new,2.84,small,0
+3.37,720,121,small,new,2.76,small,0
+4.12,129617,16631,very small,new,4.12,large,0
+3.24,1747,233,small,new,2.89,small,0
+4.0,751071,22405,average,old,4.0,large,0
+4.09,710917,41028,average,new,4.25,large,0
+3.78,1665226,166483,small,new,3.8,large,0
+3.06,1795,338,very small,new,2.81,medium,0
+2.76,3648,642,medium,new,2.49,medium,0
+3.82,1238344,50189,large,old,3.83,large,0
+3.78,1665108,166468,small,new,3.82,large,0
+4.31,196738,21857,very small,new,4.31,large,0
+4.05,1909407,216963,small,new,4.05,large,0
+3.34,1103,202,very small,new,2.84,small,0
+3.97,641237,29105,large,old,4.13,large,0
+3.56,49840,7703,very small,new,3.56,large,0
+4.5,1749895,210923,small,new,4.21,large,0
+3.56,13499,1269,small,new,2.92,medium,0
+4.25,126869,3365,medium,old,4.25,large,0
+4.25,327695,49882,small,new,4.17,large,0
+3.91,219055,7821,very small,new,3.92,large,0
+4.35,259327,8571,small,old,4.35,large,0
+3.67,7105,857,medium,new,2.77,small,0
+4.62,261984,31967,small,new,4.63,large,0
+4.07,2787266,100773,large,old,4.07,large,0
+3.83,2446480,97593,large,old,3.8,large,0
+4.14,3884953,114661,large,old,4.17,large,0
+2.79,1323,233,very small,new,2.79,medium,0
+3.95,3271355,221863,small,new,3.54,large,0
+2.62,151,53,very small,new,2.62,small,0
+4.06,125434,12561,very small,new,4.16,large,0
+3.92,799433,80016,small,new,3.99,large,0
+3.84,982387,65351,small,new,3.86,large,0
+4.36,8085813,673367,medium,new,4.57,large,0
+4.05,1909874,216997,small,new,4.57,small,0
+3.82,2371981,54762,small,new,2.7,large,0
+4.23,8430713,485060,average,new,4.43,large,0
+3.37,28623,3791,medium,new,2.61,medium,0
+4.36,8085813,673367,medium,new,4.52,large,0
+4.11,556264,45971,small,new,4.19,large,0
+4.09,375352,45670,small,new,4.23,large,0
+4.01,1668423,188003,medium,new,3.85,large,0
+3.86,338438,36056,very small,new,3.89,large,0
+4.06,4699849,273616,small,new,4.01,large,0
+3.91,3609527,121943,large,old,3.88,large,0
+4.21,574767,59983,medium,old,4.29,large,0
+3.8,1052345,31289,small,new,3.82,large,0
+4.25,1051380,85287,very small,new,4.25,large,0
+4.24,1681066,52900,large,new,4.26,large,0
+3.8,307058,20816,large,new,2.96,medium,0
+3.84,695944,68308,small,new,3.93,large,0
+4.06,209806,9566,small,new,3.93,large,0
+2.5,788,494,very small,new,2.52,small,0
+4.22,1004938,127742,medium,new,4.17,large,0
+4.17,3659366,407619,medium,new,4.03,large,0
+4.28,218885,21963,medium,new,4.32,large,0
+4.15,1539993,51513,large,new,2.59,small,0
+2.89,22319,1081,medium,new,2.68,medium,0
+3.29,361,59,very small,new,2.7,small,0
+3.96,419784,3783,medium,old,3.95,large,0
+4.21,220079,25966,very small,new,4.21,large,0
+3.21,682,172,very small,new,2.92,small,0
+4.12,651404,88758,very small,new,4.22,large,0
+4.19,971608,97558,small,new,4.34,large,0
+4.05,1522832,42980,large,old,4.0,large,0
+4.23,274504,15332,small,new,4.26,large,0
+4.06,303088,35484,average,new,3.94,large,0
+4.07,62717,7255,very small,new,4.08,large,0
+4.01,203837,33510,small,new,4.06,large,0
+4.16,1045043,70117,small,new,4.5,large,0
+2.19,227,53,small,old,2.05,small,0
+4.33,538270,69720,very small,new,4.36,large,0
+3.94,1634749,124982,small,new,3.65,medium,0
+3.8,627614,37213,small,new,3.8,large,0
+4.21,500317,90698,small,new,4.25,large,0
+4.24,9638832,874566,medium,new,4.19,large,0
+1.53,290,202,very small,new,1.53,small,0
+4.15,1523399,155114,small,new,4.16,large,0
+4.0,469365,15492,large,old,4.12,large,0
+3.94,23976,1974,average,new,2.94,small,0
+3.22,3639,606,small,new,2.93,small,0
+3.55,3686,615,medium,new,2.8,small,0
+3.99,2257595,229463,medium,new,4.34,large,0
+4.21,2589838,270012,medium,new,4.09,large,0
+3.75,475816,27859,large,old,2.8,small,0
+4.17,778368,66217,small,new,2.92,small,0
+3.99,199835,10305,average,new,4.04,large,0
+4.09,2905818,278307,average,new,4.08,large,0
+4.0,364798,36500,large,new,2.97,small,0
+4.24,9639290,874594,medium,new,4.18,large,0
+4.12,152018,6155,large,old,4.11,large,0
+4.36,8085813,673367,medium,new,3.8,large,0
+4.49,212971,28557,very small,new,4.54,large,0
+4.38,1105961,86366,small,new,4.39,large,0
+3.99,1610315,59300,average,old,3.99,large,0
+2.94,986,202,very small,new,2.94,small,0
+3.75,215059,14033,medium,new,2.96,small,0
+4.17,3659486,407633,medium,new,4.61,large,0
+4.26,298562,31726,small,new,4.4,large,0
+2.99,1918,232,very small,new,2.99,medium,0
+3.96,234324,13090,medium,new,2.54,medium,0
+4.12,445393,46820,small,new,3.93,large,0
+4.33,4717719,195536,small,new,4.41,large,0
+4.09,139679,21246,very small,new,4.04,large,0
+3.22,3877,299,average,new,2.93,small,0
+3.99,2306984,88029,medium,new,3.99,large,0
+3.95,1065771,104439,small,new,3.98,large,0
+3.91,201754,12363,average,new,3.95,large,0
+4.06,624222,60562,small,new,3.75,large,0
+3.63,112128,17676,very small,new,3.57,large,0
+4.08,1002448,22444,small,new,4.23,large,0
+3.88,19120,678,medium,new,2.73,medium,0
+4.29,2852758,147520,average,new,4.25,large,0
+4.14,3884910,114660,large,old,4.15,large,0
+4.29,148159,6754,large,old,4.29,large,0
+4.1,868387,104378,small,new,4.29,large,0
+3.85,1327359,50114,large,old,3.83,large,0
+2.36,268,77,very small,new,1.9,small,0
+4.21,180687,21468,small,new,4.19,large,0
+3.93,160325,15475,small,new,3.91,large,0
+4.24,59076,12069,very small,new,4.24,large,0
+1.74,1485,367,very small,new,1.94,small,0
+4.1,143904,5077,small,old,4.21,large,0
+2.9,1130,131,very small,new,2.93,small,0
+3.93,572836,69395,very small,new,4.0,large,0
+3.74,77709,3538,large,new,2.88,medium,0
+4.19,971666,97560,small,new,4.25,large,0
+4.27,3847785,430295,small,new,4.24,large,0
+3.87,7967792,200538,average,new,3.68,large,0
+4.24,9637673,874520,medium,new,4.18,large,0
+4.15,35938,4395,small,new,2.91,medium,0
+3.94,251746,16463,average,new,3.95,large,0
+4.07,705685,19084,small,new,4.13,large,0
+4.14,7410613,236945,large,old,4.15,large,0
+4.06,17484688,775845,large,old,4.25,large,0
+3.79,78401,6899,large,new,2.8,small,0
+3.54,22593,3491,small,new,2.87,small,0
+3.49,83995,16697,very small,new,3.48,large,0
+3.95,3150985,247612,large,new,3.93,large,0
+4.43,203622,26245,small,new,4.38,large,0
+3.68,163102,9403,very small,new,2.46,medium,0
+3.97,321496,41277,very small,new,4.03,large,0
+4.17,1701537,237368,medium,new,4.33,large,0
+4.33,755478,94899,very small,new,4.36,large,0
+4.49,593237,50507,very small,new,4.49,large,0
+2.83,1223,68,very small,new,2.8,medium,0
+4.2,348209,11709,small,new,4.2,large,0
+4.2,475804,45391,average,new,4.08,large,0
+4.02,1464814,87602,medium,new,4.08,large,0
+4.47,84689,10472,small,new,4.47,large,0
+4.18,305520,7992,small,new,4.18,large,0
+4.14,7226538,450339,large,new,4.17,large,0
+3.96,726617,48549,medium,new,3.97,large,0
+3.96,202411,16666,small,new,3.93,large,0
+4.25,340128,28519,very small,new,4.29,large,0
+4.25,3632877,64723,large,old,4.37,large,0
+2.6,763,143,very small,new,2.57,small,0
+4.19,1947683,101864,large,old,4.2,large,0
+4.33,136684,16852,small,new,4.32,large,0
+3.85,1336703,117743,small,new,3.77,large,0
+3.1,2405,558,small,new,2.89,medium,0
+4.15,1056458,34644,large,old,4.19,large,0
+3.33,4306,875,very small,new,2.96,medium,0
+4.06,17484898,775851,large,old,4.34,large,0
+4.09,2005196,210822,small,new,3.9,large,0
+4.33,1015525,93204,average,new,4.42,large,0
+3.95,3271355,221863,small,new,3.8,large,0
+4.14,7410768,236954,large,old,3.86,large,0
+3.87,711740,95191,very small,new,3.91,large,0
+3.91,108085,8153,very small,new,3.92,large,0
+4.14,7226470,450330,large,new,4.11,large,0
+4.07,1157488,47775,large,old,4.13,large,0
+3.83,150582,12516,average,new,2.47,small,0
+1.86,273,95,very small,new,1.86,small,0
+4.24,9638832,874566,medium,new,4.13,large,0
+3.89,1520646,60290,large,old,3.84,large,0
+3.91,382119,40707,very small,new,3.89,large,0
+3.89,155370,14092,large,new,2.98,small,0
+3.86,343246,27062,very small,new,3.9,large,0
+3.97,320772,23406,large,new,2.94,small,0
+3.95,3150949,247606,large,new,4.03,large,0
+4.0,692989,44204,large,new,2.4,small,0
+3.89,155370,14092,large,new,2.96,medium,0
+3.99,2257800,229480,medium,new,4.03,large,0
+2.81,626,118,small,new,2.78,small,0
+3.97,1666716,107826,small,new,3.92,large,0
+4.26,2271354,270378,small,new,4.19,large,0
+3.35,132755,6145,small,new,2.98,medium,0
+4.38,148224,15520,small,new,4.38,large,0
+2.89,333,67,very small,new,2.64,small,0
+4.26,304410,57977,small,new,4.15,large,0
+4.11,355564,34030,small,new,4.11,large,0
+4.06,840349,56039,small,new,4.04,large,0
+3.1,322,62,very small,new,2.9,small,0
+4.23,8430713,485060,average,new,4.23,large,0
+3.2,3001,592,very small,new,2.96,medium,0
+3.81,111161,10667,large,new,2.96,small,0
+4.1,111544,1594,large,old,4.08,large,0
+4.26,330619,18605,very small,new,4.26,large,0
+4.1,157283,32845,small,new,3.94,large,0
+4.18,329280,18626,large,new,4.16,large,0
+3.02,3437,473,large,new,2.74,small,0
+4.1,696201,27513,average,new,4.12,large,0
+4.23,753418,52412,medium,new,4.24,large,0
+4.01,418724,30644,average,new,4.01,large,0
+4.24,1843828,109688,large,new,4.17,large,0
+2.99,909,215,average,new,2.65,small,0
+3.24,35972,4978,medium,new,2.81,medium,0
+3.9,57891,4664,average,new,2.68,small,0
+4.11,3002905,213732,medium,new,4.26,large,0
+3.82,219214,26575,small,new,3.84,large,0
+3.81,82275,5927,average,new,2.87,small,0
+2.31,5089,2760,small,new,2.35,medium,0
+4.0,8873561,413746,small,new,4.16,large,0
+3.93,285276,31598,small,new,3.95,large,0
+3.99,4447198,273761,medium,new,4.35,large,0
+4.0,1154517,87030,small,new,4.29,large,0
+4.22,1206749,23221,average,new,2.95,small,0
+3.89,402363,50430,small,new,3.91,large,0
+4.25,3632867,64723,large,old,4.3,large,0
+4.33,438018,32120,small,new,4.42,large,0
+1.74,1485,367,very small,new,1.12,small,0
+4.46,32199209,716319,large,new,4.62,large,0
+3.99,2257914,229494,medium,new,3.95,large,0
+3.8,627640,37213,small,new,3.8,large,0
+4.36,84336,11212,very small,new,4.37,large,0
+4.26,821917,41701,small,new,4.25,large,0
+4.04,3486465,218506,large,new,3.96,large,0
+4.04,420142,17368,large,old,4.07,large,0
+3.97,2416345,190389,small,new,4.05,large,0
+3.74,1371653,112797,average,new,3.91,large,0
+4.02,597159,64345,small,new,3.77,large,0
+4.37,120222,7726,small,new,4.37,large,0
+4.08,105280,7695,small,new,4.08,large,0
+4.1,6336786,194774,average,new,4.13,large,0
+2.31,5089,2760,small,new,2.17,small,0
+3.98,995568,61510,average,new,3.92,large,0
+4.06,34882,5640,very small,new,4.07,large,0
+3.99,596192,22570,average,old,4.03,large,0
+2.97,1359,276,very small,new,2.76,small,0
+2.92,4175,724,very small,new,2.94,medium,0
+4.2,3166199,75140,medium,new,4.38,large,0
+4.06,537347,26924,small,new,4.05,large,0
+4.07,428080,47726,small,new,4.21,large,0
+4.26,14551657,471013,small,new,4.3,large,0
+3.24,6224,565,small,new,2.93,small,0
+4.37,6423033,220099,large,new,4.44,large,0
+4.2,901990,100956,small,new,4.27,large,0
+4.08,227890,20556,very small,new,4.07,large,0
+3.76,1586339,141424,small,new,3.89,large,0
+3.43,4126,587,medium,new,2.87,medium,0
+4.02,410952,48478,medium,new,4.14,large,0
+2.91,445,98,very small,new,2.68,small,0
+3.95,159619,13792,average,new,2.8,small,0
+4.06,544179,75988,small,new,3.97,large,0
+3.54,5038,690,medium,new,2.88,small,0
+4.29,179087,25967,small,new,4.14,large,0
+3.83,2446530,97597,large,old,3.81,large,0
+3.38,631,183,small,new,2.89,small,0
+3.93,342393,22451,small,new,3.96,large,0
+4.08,348830,21442,medium,new,4.14,large,0
+2.64,821,35,very small,old,2.64,small,0
+4.17,1701537,237368,medium,new,4.24,large,0
+3.59,14277,357,very small,new,2.74,small,0
+3.42,9654,1377,small,new,2.68,medium,0
+4.05,1273073,96788,small,new,3.88,large,0
+4.03,568696,42941,medium,new,4.1,large,0
+4.06,17485048,775865,large,old,4.04,large,0
+4.19,707595,27905,average,new,4.2,large,0
+4.04,159154,6395,small,old,4.05,large,0
+3.89,920034,39783,large,old,3.89,large,0
+2.99,324,58,small,new,2.93,small,0
+4.07,1745267,82645,small,new,4.23,large,0
+4.23,468222,24684,large,new,4.27,large,0
+3.75,4424672,167742,small,new,3.84,large,0
+4.0,8873706,413753,small,new,3.91,large,0
+3.95,3150997,247614,large,new,4.15,large,0
+3.8,33716,6210,very small,new,3.81,large,0
+3.91,59531,7574,very small,new,3.91,large,0
+4.09,1301868,128782,small,new,4.24,large,0
+4.06,1816833,69478,small,new,4.22,large,0
+4.17,1701350,237349,medium,new,4.07,large,0
+4.06,624153,60559,small,new,4.14,large,0
+4.5,1749722,210904,small,new,4.52,large,0
+4.2,79223,5246,small,new,4.2,large,0
+4.15,74261,5737,medium,new,4.13,large,0
+3.8,273861,21575,small,new,3.81,large,0
+4.01,3903640,172963,average,new,4.04,large,0
+2.93,321,75,very small,new,2.59,small,0
+4.05,960561,63189,small,new,4.01,large,0
+3.41,5036,772,small,new,2.87,small,0
+4.24,1240541,58077,large,new,4.27,large,0
+3.07,7100,770,very small,new,2.97,medium,0
+3.28,5210,269,small,new,2.81,small,0
+4.35,10073413,175255,large,old,4.28,large,0
+4.1,6336902,194782,average,new,4.21,large,0
+3.71,152621,14196,small,new,3.71,large,0
+4.0,8873634,413752,small,new,3.73,large,0
+3.35,13149,1052,medium,new,2.91,small,0
+4.06,4699849,273616,small,new,3.95,large,0
+3.61,87855,7609,medium,new,2.96,medium,0
+4.04,173174,17229,small,new,4.09,large,0
+3.13,1889,255,small,new,2.72,small,0
+3.81,84651,12490,very small,new,3.82,large,0
+3.59,3215,554,very small,new,2.77,small,0
+4.01,1539049,115897,small,new,3.9,large,0
+4.12,613429,47259,medium,new,4.26,large,0
+4.0,174487,9394,small,new,3.97,large,0
+4.01,1668194,187984,medium,new,4.03,large,0
+3.89,23768,4465,very small,new,3.89,medium,0
+4.16,1422593,38143,large,old,4.21,large,0
+3.76,1586324,141424,small,new,3.94,large,0
+3.71,193532,19225,very small,new,3.71,large,0
+4.16,4926126,186956,large,old,4.0,large,0
+4.1,185334,21935,medium,new,4.06,large,0
+4.0,692989,44204,large,old,2.98,medium,0
+4.3,934631,63073,small,new,4.28,large,0
+3.88,82226,4887,large,new,2.66,small,0
+2.91,2586,435,very small,new,2.91,medium,0
+4.06,867228,97459,medium,new,4.05,large,0
+3.45,936,212,very small,new,2.93,small,0
+4.04,394534,58005,small,new,4.02,large,0
+3.69,1161168,118207,small,new,3.72,large,0
+3.76,1586305,141423,small,new,3.74,large,0
+3.88,434834,24629,large,old,3.9,large,0
+3.15,3497,612,very small,new,2.96,medium,0
+4.21,97944,7634,small,new,4.22,large,0
+4.11,691348,34837,small,new,4.19,large,0
+4.29,223826,26634,very small,new,4.29,large,0
+3.6,56318,6966,small,new,2.96,small,0
+3.61,206622,8875,average,new,3.58,large,0
+3.87,2625117,58463,large,old,3.92,large,0
+4.26,155660,8340,large,new,1.93,small,0
+4.03,386950,5605,average,old,4.03,large,0
+3.41,4269,485,small,new,2.96,small,0
+4.04,2065,223,small,new,2.69,small,0
+4.21,455903,57507,medium,new,4.16,large,0
+4.06,17485048,775865,large,new,4.2,large,0
+4.34,11197382,446246,average,new,4.32,large,0
+3.26,16127,1349,small,new,3.0,medium,0
+2.77,6486,1361,very small,new,2.67,medium,0
+3.95,1225257,113662,medium,new,3.82,large,0
+3.84,564338,31928,large,old,3.72,large,0
+4.02,195216,16384,very small,new,4.04,large,0
+2.84,1579,307,very small,new,2.84,medium,0
+4.39,561834,42955,very small,new,4.39,large,0
+3.9,183821,8218,medium,old,3.9,large,0
+4.25,898235,25669,medium,old,4.26,large,0
+3.25,8649,1205,very small,new,2.31,small,0
+4.27,72685,14033,small,new,4.11,large,0
+3.71,7637,2041,average,new,2.63,small,0
+2.76,4915,474,small,new,2.65,small,0
+4.2,1398021,46649,large,old,4.28,large,0
+3.84,337017,11915,large,old,3.83,large,0
+4.04,3486398,218504,large,new,4.2,large,0
+4.17,3659317,407612,medium,new,3.95,large,0
+3.68,603794,22665,small,new,3.69,large,0
+3.86,7295810,154517,large,old,4.03,large,0
+4.07,1522336,109106,average,new,4.03,large,0
+3.75,500043,49618,small,new,3.81,large,0
+3.89,3112958,158294,small,new,3.95,large,0
+3.54,925141,51653,medium,new,2.81,medium,0
+3.95,351927,57414,small,new,3.84,large,0
+4.06,495105,18719,medium,old,4.07,large,0
+4.24,533487,35125,small,new,4.29,large,0
+3.99,7545443,398192,large,new,4.09,large,0
+2.75,388,118,very small,new,2.74,small,0
+3.76,1586352,141425,small,new,3.73,large,0
+4.09,262016,14716,medium,new,4.1,large,0
+4.31,3556418,296617,medium,new,4.3,large,0
+3.97,81592,14407,very small,new,4.06,large,0
+3.04,6922,401,medium,new,2.98,medium,0
+3.99,2966069,120425,large,old,3.97,large,0
+3.93,1632026,84236,average,new,2.69,medium,0
+4.35,1045152,54041,very small,new,4.37,large,0
+4.33,307997,29215,small,new,4.47,large,0
+3.55,10406,1271,small,new,2.47,small,0
+4.14,3884953,114661,large,old,4.02,large,0
+3.99,922896,92982,small,new,4.0,large,0
+3.87,711749,95191,very small,new,3.84,large,0
+3.45,13454,1126,very small,new,2.94,medium,0
+3.99,4447168,273760,medium,new,4.09,large,0
+4.36,8084822,673308,medium,new,4.19,large,0
+2.4,280,44,very small,new,2.4,small,0
+4.04,592643,34941,average,new,4.35,large,0
+3.45,9049,414,small,new,2.92,small,0
+2.87,291,45,small,new,2.73,small,0
+4.15,114049,16133,small,new,4.14,large,0
+3.26,345,92,very small,new,2.98,small,0
+4.24,9640004,874642,medium,new,3.83,large,0
+1.99,1318,200,very small,new,1.99,medium,0
+3.6,1799,265,small,new,2.86,small,0
+3.91,338171,36287,small,new,4.07,large,0
+4.02,1406700,95507,small,new,3.98,large,0
+4.36,8085443,673345,medium,new,4.44,large,0
+2.92,946,246,very small,new,2.92,small,0
+4.14,72953,10173,very small,new,4.21,large,0
+3.97,28665,1142,large,new,2.06,small,0
+4.01,947188,42691,average,old,4.08,large,0
+4.03,6677273,294115,medium,new,3.61,large,0
+2.84,913,69,very small,new,2.77,small,0
+4.21,3294312,292062,average,new,4.28,large,0
+4.33,755696,94926,very small,new,4.36,large,0
+4.26,463277,71959,small,new,4.34,large,0
+4.08,1002434,22444,small,new,2.83,medium,0
+3.96,2766957,263016,medium,new,3.98,large,0
+3.69,96131,7926,small,new,2.93,medium,0
+4.14,826425,67592,small,new,4.01,large,0
+3.59,146222,22317,very small,new,3.54,large,0
+2.85,1596,449,small,new,2.84,medium,0
+4.46,32200287,716343,large,new,4.05,large,0
+3.21,12335,1157,small,new,2.91,medium,0
+4.24,978734,27037,large,old,4.31,large,0
+3.69,337910,28672,small,new,3.61,large,0
+4.23,8430727,485062,average,new,4.43,large,0
+4.36,8085813,673367,medium,new,4.62,large,0
+4.09,2005157,210817,small,new,4.45,large,0
+3.92,864737,52719,medium,new,2.87,small,0
+3.97,321494,41277,very small,new,3.82,large,0
+3.04,1740,444,very small,new,2.86,medium,0
+3.72,400511,63951,average,new,3.91,large,0
+4.1,2957329,117291,large,new,2.8,small,0
+4.11,137618,15405,small,new,4.26,large,0
+2.65,6903,396,very small,new,2.59,medium,0
+3.47,25240,2982,small,new,3.02,medium,0
+4.03,370135,15060,large,old,4.01,large,0
+3.87,642230,19827,average,new,2.85,small,0
+4.1,2359676,64153,large,old,4.13,large,0
+4.07,976632,48839,average,old,4.04,large,0
+3.95,2764824,144704,medium,new,4.04,large,0
+4.33,1222292,74056,medium,new,4.22,large,0
+4.27,665937,27452,average,old,4.28,large,0
+4.04,294919,17847,small,new,4.09,large,0
+3.89,114174,21140,very small,new,3.95,large,0
+3.95,1341078,127177,small,new,3.83,large,0
+4.05,960641,63192,small,new,4.11,large,0
+3.7,2349,407,medium,new,2.86,small,0
+1.48,197,90,very small,new,1.48,small,0
+3.84,1638024,74329,average,new,2.87,medium,0
+2.83,301,70,very small,new,2.82,small,0
+4.06,700061,67228,small,new,4.05,large,0
+4.18,402423,21412,average,new,4.18,large,0
+4.09,332431,36177,small,new,4.03,large,0
+4.04,858490,67446,small,new,4.08,large,0
+3.88,82226,4887,large,new,2.73,small,0
+3.95,66830,1445,small,new,2.97,medium,0
+4.0,1864417,180088,medium,new,3.76,large,0
+2.96,1070,302,very small,new,2.81,small,0
+3.56,3359,380,medium,new,2.86,small,0
+2.94,677,69,very small,new,2.94,small,0
+3.84,1514849,29713,large,old,3.89,large,0
+4.15,300605,36931,very small,new,3.9,large,0
+3.36,3021,506,very small,new,2.98,medium,0
+4.37,6423152,220105,large,new,4.54,large,0
+4.04,728898,85475,small,new,3.85,large,0
+4.15,232406,8712,small,old,4.19,large,0
+2.17,1225,191,small,old,2.08,medium,0
+2.97,3120,727,very small,new,2.46,small,0
+4.0,1424468,126051,small,new,4.17,large,0
+4.47,72854,11358,very small,new,4.47,large,0
+3.83,55250,4002,average,new,2.84,small,0
+4.24,1681042,52899,large,new,2.77,small,0
+2.69,538,117,very small,new,2.69,small,0
+2.82,8274,1335,very small,new,2.82,medium,0
+4.01,551866,34080,medium,new,3.86,large,0
+4.12,319168,24471,average,new,4.19,large,0
+2.48,3168,766,very small,new,2.15,medium,0
+3.51,12060,1631,small,new,2.9,medium,0
+3.99,2028148,52877,large,old,3.99,large,0
+4.25,2834165,126811,average,new,3.98,large,0
+3.52,909288,70641,small,new,3.52,large,0
+4.03,534399,16185,medium,old,4.07,large,0
+3.98,995586,61512,average,old,4.1,large,0
+3.95,4401139,134553,large,old,3.88,large,0
+3.74,4626,518,small,new,2.9,small,0
+3.44,11530,2881,small,new,2.66,medium,0
+4.18,704262,59403,very small,new,4.18,large,0
+3.86,1099174,66047,large,old,3.79,large,0
+4.27,3847785,430295,small,new,4.08,large,0
+3.67,1089,359,small,new,2.73,small,0
+3.82,158359,15904,large,new,2.86,small,0
+4.34,217502,20333,small,new,4.51,large,0
+3.03,1532,146,small,new,2.69,small,0
+4.36,8085813,673367,medium,new,4.46,large,0
+4.26,123789,13655,very small,new,4.26,large,0
+3.52,6178,1005,small,new,2.94,medium,0
+2.89,2611,837,small,new,2.72,small,0
+4.33,1015537,93204,average,new,4.33,large,0
+3.93,189155,17540,very small,new,3.95,large,0
+3.86,673573,32752,large,old,3.82,large,0
+3.83,2002,367,very small,new,2.68,small,0
+4.09,2005237,210828,small,new,4.17,large,0
+3.95,174672,10750,very small,new,3.98,large,0
+4.02,96795,14660,very small,new,3.93,large,0
+3.56,13499,1269,small,new,2.8,medium,0
+4.36,8084588,673297,medium,new,4.2,large,0
+3.91,11123,1200,very small,new,2.95,small,0
+4.08,883396,39003,medium,new,4.08,large,0
+3.27,8714,1592,very small,new,3.27,medium,0
+3.05,942,155,small,new,2.88,small,0
+3.87,2625108,58463,large,old,3.83,large,0
+3.16,3912,249,small,new,3.02,medium,0
+4.33,4717827,195538,small,new,4.07,large,0
+4.34,662696,57944,medium,new,3.96,large,0
+3.87,7967790,200537,average,new,3.74,large,0
+3.78,223748,26376,small,new,3.78,large,0
+3.62,243,40,small,new,3.5,small,0
+4.17,159484,6126,small,old,4.21,large,0
+2.72,6474,1145,very small,new,2.47,medium,0
+4.1,6336902,194782,average,new,4.12,large,0
+3.86,7295898,154522,large,old,3.9,large,0
+4.06,105432,6962,small,new,4.03,large,0
+3.67,258999,24668,small,new,3.64,large,0
+4.34,11197670,446248,average,new,4.1,large,0
+4.48,910855,64563,small,new,4.48,large,0
+3.47,356,73,small,new,2.89,small,0
+4.23,8430574,485054,average,new,4.32,large,0
+3.22,8755,988,small,new,2.82,medium,0
+3.93,572768,69387,very small,new,3.93,large,0
+3.78,202429,30152,very small,new,3.75,large,0
+3.75,506591,61425,average,new,3.74,large,0
+3.9,47400,3897,large,new,2.99,small,0
+3.94,1202810,42057,large,old,3.92,large,0
+2.9,4224,349,small,new,2.83,small,0
+3.95,2764979,144706,medium,new,3.71,large,0
+2.84,2237,587,very small,new,2.71,medium,0
+4.18,197597,16896,very small,new,4.14,large,0
+4.14,7226470,450330,large,new,4.09,large,0
+3.77,497513,18421,small,new,3.72,large,0
+3.89,3112993,158295,small,new,3.59,large,0
+3.76,1586339,141424,small,new,3.72,large,0
+4.14,7410613,236945,large,old,4.08,large,0
+4.16,238450,26462,very small,new,4.2,large,0
+4.32,400215,36680,average,old,4.3,large,0
+3.45,12336,1715,small,new,2.96,small,0
+4.1,796597,104007,small,new,4.35,large,0
+4.02,5724416,337931,large,old,4.2,large,0
+3.85,52855,4085,large,new,2.94,small,0
+4.05,1522822,42980,large,old,4.07,large,0
+2.89,2216,432,very small,new,2.89,medium,0
+2.8,891,162,very small,new,2.8,small,0
+3.89,1670616,53104,large,old,3.88,large,0
+3.89,315855,25900,very small,new,3.97,large,0
+3.24,35972,4978,medium,new,2.92,small,0
+4.34,11197573,446248,average,new,4.36,large,0
+3.63,10023,1690,medium,new,2.98,medium,0
+4.22,485956,51616,medium,new,4.39,large,0
+2.76,4915,474,small,new,2.6,small,0
+4.2,764467,82803,average,new,3.91,large,0
+3.04,6922,401,medium,new,2.79,medium,0
+3.69,2279111,116283,small,new,3.61,large,0
+3.84,564338,31926,large,old,3.86,large,0
+4.06,17485061,775865,large,old,4.05,large,0
+3.97,2416066,190370,small,new,4.07,large,0
+4.2,115869,7915,medium,old,4.2,large,0
+4.33,1015521,93204,average,new,4.32,large,0
+4.08,142877,15576,very small,new,4.09,large,0
+2.64,476,78,very small,new,2.64,small,0
+3.5,657435,28417,large,old,3.43,large,0
+4.12,178084,1356,small,old,4.12,large,0
+4.33,1222247,74056,medium,new,4.38,large,0
+3.69,96131,7926,small,new,2.75,medium,0
+3.62,17032,1994,average,new,2.73,medium,0
+4.2,339627,20937,medium,new,2.69,medium,0
+4.07,910259,79023,small,new,4.02,large,0
+4.0,1411987,38940,medium,new,3.99,large,0
+3.05,1731,411,very small,new,2.95,medium,0
+4.04,592649,34941,average,new,3.81,large,0
+3.78,147735,21242,very small,new,3.79,large,0
+4.14,7226538,450339,large,new,4.1,large,0
+3.1,312,72,small,new,2.86,small,0
+3.7,29866,4060,large,new,2.88,small,0
+3.85,859037,112867,small,new,3.82,large,0
+3.27,3076,403,very small,new,2.98,medium,0
+4.24,212822,16554,small,new,4.27,large,0
+4.46,32199613,716327,large,new,4.58,large,0
+4.04,107710,9489,small,new,4.04,large,0
+4.24,3310059,152579,medium,new,4.11,large,0
+4.01,479566,63244,small,new,4.01,large,0
+3.38,4651,651,average,new,2.94,small,0
+3.98,738735,76982,medium,new,2.83,medium,0
+3.98,884084,35031,large,old,3.89,large,0
+3.1,4651,356,medium,new,2.87,small,0
+2.68,289,48,very small,new,2.68,small,0
+3.77,416410,28096,small,new,3.81,large,0
+3.99,3603821,223854,small,new,4.17,large,0
+4.07,140662,11136,average,old,4.15,large,0
+4.03,2627137,106460,medium,new,3.99,large,0
+3.65,213428,25375,small,new,3.66,large,0
+4.06,1816845,69479,small,new,4.0,large,0
+4.2,1003960,28154,large,old,4.21,large,0
+4.17,3659601,407636,medium,new,4.38,large,0
+4.01,14485,1033,average,new,2.61,small,0
+3.86,503759,28773,very small,new,3.84,large,0
+3.62,17032,1994,average,new,2.45,small,0
+4.07,428090,47730,small,new,3.96,large,0
+3.89,1520653,60290,large,old,3.96,large,0
+2.78,1103,146,very small,new,2.67,medium,0
+4.19,629065,29349,medium,old,4.18,large,0
+3.44,40986,5235,small,new,2.99,medium,0
+3.46,67355,5817,large,new,2.54,small,0
+4.0,1031796,123844,very small,new,3.86,large,0
+3.93,1632066,84238,average,new,4.08,large,0
+4.07,1157455,47773,large,old,4.06,large,0
+4.16,7067463,179290,large,old,4.23,large,0
+4.01,2059290,90223,medium,new,4.0,large,0
+3.0,343,74,very small,new,2.87,small,0
+3.94,900985,39278,average,new,3.91,large,0
+4.16,563851,25042,average,new,4.13,large,0
+3.11,408,51,small,new,2.63,small,0
+3.75,170262,16476,medium,new,2.54,medium,0
+3.94,624104,64082,medium,new,4.01,large,0
+4.29,638806,52269,medium,new,4.27,large,0
+4.01,40690,7478,very small,new,4.02,large,0
+3.65,357237,38362,small,new,3.68,large,0
+4.2,1398032,46649,large,old,4.09,large,0
+4.33,538270,69720,very small,new,4.37,large,0
+3.93,114532,12561,small,new,3.88,large,0
+4.31,125050,5806,average,new,4.33,large,0
+3.67,11245,1513,medium,new,2.79,medium,0
+3.59,5217,1142,very small,new,2.92,small,0
+4.23,8430569,485052,average,new,4.08,large,0
+4.05,204251,17769,very small,new,4.11,large,0
+3.56,34793,1950,small,new,2.68,small,0
+3.98,2784381,68610,medium,new,3.93,large,0
+4.25,3632867,64723,large,old,4.18,large,0
+2.92,496,132,small,old,2.63,small,0
+3.98,177417,25595,small,new,4.02,large,0
+4.06,700067,67228,small,new,4.27,large,0
+2.97,269,44,very small,new,2.84,small,0
+4.14,1899815,76985,average,new,3.99,large,0
+4.09,157753,5032,small,new,4.08,large,0
+4.27,3848787,430375,small,new,3.99,large,0
+4.04,420142,17368,large,old,4.02,large,0
+3.33,26151,3875,very small,new,2.96,medium,0
+4.03,6677151,294114,medium,new,4.16,large,0
+3.04,1870,176,very small,new,2.99,medium,0
+3.76,109004,8411,large,new,2.95,medium,0
+2.91,1048,188,very small,new,2.91,medium,0
+4.23,1959342,83534,large,old,4.29,large,0
+4.15,77623,9070,very small,new,4.15,large,0
+1.64,2317,992,very small,new,1.64,medium,0
+3.45,3541,309,very small,new,2.7,small,0
+3.91,282934,12919,small,new,3.92,large,0
+3.76,18025,2216,average,new,2.83,small,0
+3.22,5578,192,average,new,2.77,small,0
+4.36,8085953,673372,medium,new,4.32,large,0
+4.3,1567798,118309,small,new,4.32,large,0
+3.4,9895,1648,very small,new,3.21,medium,0
+3.95,126279,25194,average,new,3.95,large,0
+4.36,8085275,673336,medium,new,4.62,large,0
+3.41,5036,772,small,new,3.0,small,0
+3.75,475813,27859,large,old,2.91,small,0
+3.09,4015,651,small,new,2.93,medium,0
+4.47,1255931,93610,very small,new,4.47,large,0
+3.68,13006232,387893,medium,new,3.58,large,0
+4.35,2492083,155646,small,new,4.39,large,0
+4.07,398877,16638,large,old,4.04,large,0
+4.01,155321,20206,very small,new,3.99,large,0
+3.94,1634737,124980,small,new,3.82,large,0
+3.99,3603560,223833,small,new,3.02,large,0
+3.84,154930,15181,very small,new,3.81,large,0
+3.93,154644,31362,small,new,3.73,large,0
+2.69,197,70,very small,new,2.52,small,0
+3.91,274713,20060,small,new,3.95,large,0
+4.11,3002979,213734,medium,new,4.28,large,0
+3.54,2603,352,very small,new,2.81,small,0
+3.95,2764964,144706,medium,new,3.9,large,0
+4.03,2627165,106462,medium,new,4.02,large,0
+4.38,509680,35629,small,new,4.38,large,0
+4.2,817470,96360,small,new,4.25,large,0
+4.46,1572482,93424,medium,old,3.58,medium,0
+3.87,7967754,200537,average,new,3.87,large,0
+4.24,931962,58587,medium,new,4.19,large,0
+3.85,1327370,50116,large,old,3.84,large,0
+4.0,172758,34143,small,new,4.07,large,0
+3.69,1191545,29487,small,new,3.78,large,0
+4.18,2310183,85786,large,old,4.14,large,0
+4.46,32199613,716327,large,new,4.57,large,0
+3.95,68794,7622,very small,new,3.95,large,0
+3.92,369863,13845,small,new,3.95,large,0
+3.19,3160,635,small,new,2.71,medium,0
+3.82,165907,14963,small,new,3.87,large,0
+3.62,63182,5279,small,new,2.79,medium,0
+4.17,139821,18891,very small,new,4.14,large,0
+3.77,404072,64717,small,new,3.55,large,0
+3.13,1780,418,very small,new,2.95,small,0
+3.54,13828,1451,small,new,2.31,small,0
+4.08,1487197,77552,large,old,4.15,large,0
+4.0,246815,13204,small,new,2.8,medium,0
+4.04,592649,34941,average,new,3.92,large,0
+3.99,3603821,223854,small,new,3.97,large,0
+3.29,749,105,small,new,3.04,small,0
+3.72,450171,50607,average,new,3.74,large,0
+4.22,1004931,127741,medium,new,4.33,large,0
+4.07,150866,4221,average,old,4.07,large,0
+3.73,224853,34119,medium,new,3.8,large,0
+3.96,504201,62571,small,new,4.04,large,0
+3.99,3603898,223858,small,new,3.65,large,0
+3.69,141710,28101,average,new,3.72,large,0
+4.26,463337,71968,small,new,3.79,large,0
+4.06,17484898,775851,large,old,3.98,large,0
+3.99,7545068,398167,large,new,2.83,medium,0
+4.21,193699,20316,very small,new,4.28,large,0
+3.79,617985,55997,very small,new,3.88,large,0
+3.78,55051,4385,large,new,2.63,small,0
+3.96,2767022,263017,medium,new,3.88,large,0
+4.04,195754,14552,very small,new,4.24,large,0
+3.99,922905,92983,small,new,4.0,large,0
+4.02,687009,38604,average,old,4.11,large,0
+3.93,52506,3745,average,old,2.96,small,0
+2.78,1384,266,medium,new,2.61,medium,0
+2.86,251,29,very small,new,2.86,small,0
+4.14,7226645,450345,large,new,4.24,large,0
+2.99,6268,881,very small,new,2.74,medium,0
+3.96,935355,100250,medium,new,3.98,large,0
+4.2,817470,96360,small,new,4.19,large,0
+3.26,7743,1064,small,new,2.88,small,0
+4.11,856789,116995,very small,new,3.99,large,0
+3.93,572826,69395,very small,new,3.86,large,0
+4.18,2310190,85792,large,old,4.5,large,0
+4.18,449437,14234,average,new,2.92,medium,0
+3.91,411286,18971,large,old,2.16,small,0
+3.99,4447221,273762,medium,new,4.28,large,0
+3.09,4809,675,medium,new,2.91,medium,0
+4.11,2159866,92092,large,old,4.11,large,0
+3.96,358499,10211,small,new,3.98,large,0
+3.52,984,288,very small,new,2.72,small,0
+3.99,711690,83220,small,new,3.69,large,0
+4.15,1539982,51512,large,old,2.51,small,0
+4.2,1004019,28156,large,old,4.15,large,0
+4.11,856713,116993,very small,new,4.14,large,0
+2.81,1129,228,very small,new,2.77,medium,0
+3.86,226038,1083,small,new,3.85,large,0
+4.37,719117,29905,average,new,4.37,large,0
+3.65,136646,9185,very small,new,3.71,large,0
+3.47,13210,3194,medium,new,2.85,small,0
+3.71,1360006,70418,medium,new,3.74,large,0
+3.95,1341159,127183,small,new,3.81,large,0
+3.67,371707,26071,very small,new,3.66,large,0
+3.75,475821,27860,large,old,3.75,large,0
+4.25,574360,59161,medium,new,4.16,large,0
+2.74,1314,309,very small,new,2.77,medium,0
+3.91,744686,39436,small,new,3.91,large,0
+4.24,1681042,52899,large,new,2.96,small,0
+3.48,21566,2555,medium,new,2.94,medium,0
+3.21,2624,497,very small,new,2.82,medium,0
+4.17,3659516,407633,medium,new,4.17,large,0
+4.08,255076,8972,average,old,4.07,large,0
+4.18,37980,8338,very small,new,4.17,large,0
+4.0,8873839,413756,small,new,3.53,large,0
+3.68,13005848,387884,medium,new,3.63,large,0
+3.97,154690,11217,large,new,2.8,small,0
+4.17,220494,13492,average,new,4.15,large,0
+4.03,6677273,294115,medium,new,3.99,large,0
+4.0,369368,17108,large,old,3.93,large,0
+4.21,2589864,270013,medium,new,4.15,large,0
+4.32,824584,70577,small,new,4.29,large,0
+3.89,501416,62912,small,new,3.81,large,0
+4.02,155769,22204,very small,new,4.09,large,0
+3.34,3837,165,average,new,2.85,small,0
+3.83,633775,57334,small,new,3.82,large,0
+4.28,1953645,196612,small,new,3.69,large,0
+4.24,9637673,874520,medium,new,4.39,large,0
+3.19,1777,317,small,new,2.86,small,0
+3.02,2292,288,very small,new,2.86,medium,0
+3.71,3506,352,small,new,3.01,small,0
+2.59,567,99,very small,new,2.56,small,0
+3.81,163125,22980,very small,new,3.86,large,0
+3.78,1187201,108251,small,new,3.85,large,0
+4.01,947215,42691,average,old,3.86,large,0
+3.7,223336,34211,small,new,3.71,large,0
+4.1,868382,104377,small,new,4.0,large,0
+3.1,145,22,small,new,2.97,small,0
+3.37,2136,470,medium,new,2.9,small,0
+4.0,1050280,75789,average,old,4.26,large,0
+4.1,6336889,194781,average,new,4.16,large,0
+2.4,1548,346,very small,new,2.64,medium,0
+3.8,977402,78409,small,new,3.81,large,0
+3.95,3271291,221862,small,new,4.3,large,0
+3.93,189732,14408,very small,new,3.98,large,0
+4.37,6423170,220105,large,old,4.4,medium,0
+3.99,7545443,398192,large,new,4.12,large,0
+3.93,490158,58974,very small,new,3.94,large,0
+3.36,1770,249,medium,new,2.7,small,0
+3.95,1523259,48539,average,new,3.86,large,0
+4.16,563832,25042,average,new,4.15,large,0
+3.19,3746,502,small,new,2.5,small,0
+3.93,1245758,68909,large,old,3.61,large,0
+4.03,2627137,106460,medium,new,4.19,large,0
+4.2,533822,54588,small,new,4.31,large,0
+2.98,13053,1801,very small,new,2.82,medium,0
+3.83,63946,10714,very small,new,3.82,large,0
+4.01,86764,4979,small,new,2.97,medium,0
+4.08,86690,4802,medium,new,4.1,large,0
+3.97,381113,11981,very small,new,3.97,large,0
+3.25,909,95,very small,new,2.95,small,0
+3.1,1931,427,small,new,2.63,small,0
+4.08,1487197,77552,large,old,4.08,large,0
+4.22,2287652,119997,average,new,4.3,large,0
+3.95,3271368,221863,small,new,4.08,large,0
+4.06,17485048,775865,large,new,3.99,large,0
+4.13,1887134,77998,large,old,4.25,large,0
+4.04,438440,36747,very small,new,4.04,large,0
+3.11,7613,1218,very small,new,2.97,medium,0
+4.23,753418,52412,medium,new,4.28,large,0
+3.69,1191521,29486,small,new,2.97,large,0
+3.6,3852,392,small,old,2.88,small,0
+3.92,864750,52721,medium,new,4.03,large,0
+3.3,1419,309,small,new,2.48,small,0
+4.35,259863,23286,small,new,4.38,large,0
+3.95,5726241,212203,large,new,4.1,large,0
+4.09,229629,27645,very small,new,4.09,large,0
+4.15,322734,29694,small,new,3.66,large,0
+4.1,249380,30318,small,new,4.12,large,0
+3.1,4651,356,medium,new,2.84,small,0
+4.31,1200089,23644,medium,old,4.3,large,0
+3.97,436322,16100,large,old,3.97,large,0
+3.94,685090,57125,small,new,4.02,large,0
+3.99,321232,12947,very small,new,3.95,large,0
+3.95,4401139,134553,large,old,4.4,large,0
+4.31,1888375,60412,large,old,4.32,large,0
+3.94,1634617,124969,small,new,4.03,large,0
+3.59,5706,1044,very small,new,2.93,small,0
+3.95,3271355,221863,small,new,3.95,large,0
+4.15,1633630,39790,medium,new,4.15,large,0
+4.23,432848,23967,large,old,4.3,large,0
+3.87,711761,95191,very small,new,4.05,large,0
+3.85,362716,38125,average,new,2.83,medium,0
+4.09,129220,9802,small,new,4.08,large,0
+4.0,1424451,126050,small,new,3.93,large,0
+4.17,86916,11256,very small,new,4.17,large,0
+3.18,592,57,small,new,2.93,small,0
+4.24,1300382,76521,small,new,4.3,large,0
+3.34,6719,1552,very small,new,2.96,medium,0
+4.28,1953545,196606,small,new,4.41,large,0
+2.98,4323,981,small,new,2.46,medium,0
+3.42,1128,212,small,new,2.78,small,0
+4.21,283294,14060,average,old,4.18,large,0
+4.07,1745246,82644,small,new,4.08,large,0
+3.84,3654801,90793,average,old,3.81,large,0
+3.37,5239,762,very small,new,2.91,medium,0
+4.37,6423107,220104,large,new,4.33,large,0
+3.98,375495,24175,average,old,3.97,large,0
+4.07,81509,10169,small,new,4.08,large,0
+3.04,795,109,medium,new,2.97,small,0
+4.24,9640565,874692,medium,new,4.01,large,0
+3.65,383161,56427,small,new,3.71,large,0
+4.04,3486459,218504,large,new,4.01,large,0
+3.48,26524,3045,average,new,2.81,small,0
+3.76,924539,48010,average,old,3.88,large,0
+3.87,255573,27590,small,new,3.77,large,0
+3.87,1452660,59872,medium,new,3.89,large,0
+4.09,235160,32649,very small,new,4.09,large,0
+4.02,466352,21219,average,new,2.48,small,0
+3.93,926542,54215,average,new,2.86,medium,0
+2.93,368,112,very small,new,2.93,small,0
+3.85,706186,64013,small,new,3.79,large,0
+3.99,157029,6585,medium,new,4.0,large,0
+4.2,764444,82799,average,new,4.32,large,0
+3.92,335138,24292,medium,new,3.95,large,0
+3.84,1638019,74329,average,new,2.97,large,0
+1.63,76,25,very small,new,1.63,small,0
+4.36,410142,46054,small,new,4.47,large,0
+3.95,440504,39678,small,new,4.06,large,0
+3.8,3889259,172390,average,old,2.72,medium,0
+2.93,1372,220,very small,new,2.93,medium,0
+3.11,1353,122,small,new,3.04,small,0
+4.0,380460,39068,medium,new,3.89,large,0
+4.09,1514366,146959,very small,new,3.63,large,0
+3.89,1330664,44514,average,new,2.98,medium,0
+3.7,31507,2538,medium,new,2.82,medium,0
+3.93,709565,63531,small,new,4.02,large,0
+4.72,149368,21023,very small,new,4.72,large,0
+4.01,479455,63229,small,new,4.34,large,0
+3.64,5831,1763,small,new,3.01,small,0
+4.21,89187,4291,small,new,4.23,large,0
+3.65,132062,18641,small,new,3.69,large,0
+3.93,490031,58960,very small,new,3.93,large,0
+3.57,269537,11843,large,new,2.5,medium,0
+4.13,247373,22563,medium,new,4.07,large,0
+3.01,632,40,small,new,3.01,small,0
+4.1,285802,8170,medium,new,4.04,large,0
+4.26,167652,9270,medium,old,4.26,large,0
+3.67,6470,841,small,new,2.78,small,0
+3.95,4401139,134553,large,old,3.99,large,0
+4.11,531629,22591,small,new,4.12,large,0
+4.06,17484985,775861,large,new,3.99,large,0
+4.25,192856,10819,large,old,4.26,large,0
+2.47,780,205,small,new,1.86,small,0
+4.46,32199613,716327,large,new,4.58,large,0
+4.28,617617,114174,small,new,4.23,large,0
+4.01,127256,10979,medium,new,2.9,medium,0
+4.06,1816797,69478,small,new,4.0,large,0
+2.89,22319,1081,medium,new,2.4,medium,0
+3.85,145483,22294,small,new,3.9,large,0
+4.02,212363,29227,medium,new,4.13,large,0
+4.07,253273,34607,small,new,4.05,large,0
+4.06,263787,37335,very small,new,4.11,large,0
+4.24,9637673,874520,medium,new,4.49,large,0
+3.83,53635,5634,average,new,2.9,medium,0
+3.95,101707,6767,large,new,2.61,small,0
+4.34,11197573,446248,average,new,4.53,large,0
+4.29,62341,5370,small,new,2.53,medium,0
+4.09,505672,58592,small,new,4.16,large,0
+3.95,3150949,247606,large,new,4.14,large,0
+3.99,4447211,273762,medium,new,4.24,large,0
+4.28,1953489,196598,small,new,2.91,small,0
+2.94,6508,1142,very small,new,2.92,medium,0
+4.21,85126,5108,very small,new,4.21,large,0
+2.92,250,50,very small,new,2.86,small,0
+4.1,6336846,194778,average,new,4.19,large,0
+3.9,59021,2750,large,new,2.84,small,0
+4.33,755721,94926,very small,new,4.19,large,0
+4.06,17485048,775865,large,new,4.33,large,0
+3.87,7967790,200537,average,new,3.73,large,0
+3.31,3354,477,very small,new,2.85,medium,0
+3.47,1055,356,medium,new,2.9,small,0
+3.49,212732,17478,very small,new,3.54,large,0
+3.92,648274,61474,average,old,3.96,large,0
+4.45,159839,18613,small,new,4.55,large,0
+3.91,359315,47043,very small,new,4.02,large,0
+4.06,17485061,775865,large,new,3.91,large,0
+3.76,363013,7649,small,new,3.77,large,0
+3.28,6057,1726,very small,new,2.49,small,0
+4.02,5724455,337935,large,old,4.0,large,0
+4.4,4950300,345009,large,new,4.19,large,0
+3.64,40129,4625,small,new,2.9,medium,0
+4.11,3003008,213734,medium,new,3.73,large,0
+4.17,4852942,160529,medium,new,4.23,large,0
+4.1,6336889,194781,average,new,4.04,large,0
+3.83,449978,40679,small,new,3.82,large,0
+3.89,239145,32094,medium,new,4.04,large,0
+4.34,11197573,446248,average,new,4.24,large,0
+3.02,648,135,small,new,2.98,small,0
+4.03,323234,18652,very small,new,4.08,large,0
+4.14,7226470,450330,large,new,4.01,large,0
+4.17,1701519,237366,medium,new,3.79,large,0
+2.62,2879,445,very small,new,2.62,medium,0
+4.29,394477,39247,small,new,4.32,large,0
+4.02,3520224,95892,large,old,4.14,large,0
+3.88,1417118,61245,large,old,3.88,large,0
+3.94,3519866,139555,average,new,3.01,medium,0
+3.81,198931,24958,small,new,3.75,large,0
+4.11,304465,4372,small,new,4.11,large,0
+3.85,1336656,117741,small,new,3.84,large,0
+3.06,8687,1904,small,new,2.96,medium,0
+4.3,1567870,118312,small,new,4.27,large,0
+3.91,2137572,63265,average,old,4.01,large,0
+3.04,1561,303,very small,new,2.85,small,0
+3.74,261952,37684,small,new,3.73,large,0
+4.28,1953594,196612,small,new,4.52,large,0
+4.02,132310,15462,very small,new,4.01,large,0
+3.69,96131,7926,small,new,2.74,medium,0
+4.05,210718,15824,very small,new,4.07,large,0
+4.26,2271558,270402,small,new,4.07,large,0
+3.81,181517,13690,very small,new,3.81,large,0
+3.89,501430,62912,small,new,3.85,large,0
+4.25,556000,69692,small,new,4.26,large,0
+4.14,532013,64267,small,new,3.83,large,0
+4.26,159636,29313,small,new,4.23,large,0
+3.74,1141192,23141,small,new,3.79,large,0
+4.08,270642,42687,small,new,4.23,large,0
+3.64,38458,5207,small,new,2.89,small,0
+3.13,3731,839,small,new,3.03,medium,0
+3.96,2767022,263017,medium,new,4.19,large,0
+4.05,270625,17984,large,new,2.92,small,0
+4.36,8085813,673367,medium,new,4.36,large,0
+3.91,3609551,121946,large,old,4.02,large,0
+4.31,3556534,296625,medium,new,4.24,large,0
+3.48,21566,2555,medium,new,2.95,small,0
+4.12,183806,28174,medium,new,4.47,large,0
+3.2,1204,264,small,new,3.02,small,0
+4.04,404064,25074,medium,new,4.13,large,0
+4.06,940078,102538,medium,new,4.16,large,0
+4.24,1681066,52900,large,new,4.37,large,0
+2.89,428,109,small,new,2.86,small,0
+3.88,383097,32579,very small,new,3.88,large,0
+3.91,166564,10154,average,new,2.99,small,0
+4.25,338645,12974,average,old,4.27,large,0
+3.19,19691,2824,small,new,2.58,medium,0
+3.8,93813,10384,large,new,2.84,small,0
+3.92,1427846,98478,small,new,3.99,large,0
+2.77,1539,295,very small,new,2.77,medium,0
+3.56,251646,6171,large,old,3.52,large,0
+4.18,89781,11480,small,new,4.26,large,0
+4.2,3166111,75134,medium,old,4.23,large,0
+4.31,1843766,198156,small,new,4.25,large,0
+4.04,882095,48202,average,new,4.16,large,0
+4.4,130727,10666,very small,new,4.4,large,0
+3.99,2257914,229494,medium,new,4.0,large,0
+4.15,761755,54880,average,old,4.24,large,0
+4.0,1472129,64248,small,new,3.94,large,0
+4.46,32199772,716330,large,new,3.3,large,0
+4.0,502864,48617,small,new,4.13,large,0
+4.12,651245,88736,very small,new,4.0,large,0
+3.65,263175,21930,medium,new,2.68,medium,0
+4.2,1358744,123414,small,new,3.9,large,0
+2.77,1396,76,small,new,2.73,medium,0
+3.82,158359,15904,large,new,2.97,small,0
+4.06,17485134,775869,large,new,4.23,large,0
+4.21,574768,59983,medium,new,4.21,large,0
+4.26,304442,57981,small,new,4.36,large,0
+4.16,4926073,186954,large,new,4.25,large,0
+3.49,75036,10096,small,new,2.8,medium,0
+3.54,925153,51656,medium,new,3.54,large,0
+4.14,1906202,33687,very small,new,4.14,large,0
+3.82,1238338,50188,large,old,3.9,large,0
+4.45,159838,18613,small,new,4.45,large,0
+3.6,22537,2574,large,new,2.7,small,0
+3.19,3160,635,small,new,2.99,small,0
+2.93,289,45,very small,new,2.93,small,0
+4.06,867228,97459,medium,new,4.01,large,0
+2.62,296,75,very small,new,2.62,small,0
+3.54,8173,1345,small,new,2.75,small,0
+4.24,3310108,152580,medium,new,4.2,large,0
+2.86,716,143,very small,new,2.9,small,0
+4.01,997105,70074,medium,new,4.04,large,0
+2.6,1963,470,very small,new,2.55,medium,0
+3.85,859181,112877,small,new,3.97,large,0
+4.07,95446,10529,very small,new,4.08,large,0
+3.96,726611,48549,medium,new,3.89,large,0
+4.34,11197573,446248,average,new,4.41,large,0
+4.2,306037,18367,small,new,4.13,large,0
+3.86,1099174,66047,large,old,4.2,large,0
+4.04,262497,21220,small,new,3.99,large,0
+4.34,11197105,446238,average,new,4.29,large,0
+3.89,358148,36320,small,new,3.85,large,0
+4.17,3659601,407636,medium,new,4.02,large,0
+3.92,291881,20015,large,old,4.0,large,0
+4.41,234593,20700,very small,new,4.41,large,0
+3.72,194697,14997,very small,new,3.72,large,0
+4.19,135468,4492,medium,old,4.19,large,0
+4.0,1864417,180088,medium,new,4.05,large,0
+3.82,447064,36561,very small,new,3.82,large,0
+4.02,279209,28077,small,new,4.1,large,0
+4.05,2727921,84887,average,new,4.01,large,0
+4.13,247368,22563,medium,new,4.19,large,0
+2.98,372,73,very small,new,2.94,small,0
+4.38,234467,25445,very small,new,4.38,large,0
+3.56,13499,1269,small,new,2.86,medium,0
+2.82,163,27,very small,new,2.74,small,0
+3.63,31984,1403,average,new,2.8,medium,0
+4.34,3015019,42829,average,old,4.37,large,0
+3.78,3729,374,small,new,2.79,small,0
+3.02,198,52,very small,new,2.93,small,0
+4.47,2530559,87828,very small,new,4.47,large,0
+3.62,9046,900,medium,new,2.88,small,0
+4.07,2787250,100772,large,old,4.16,large,0
+3.94,107154,11781,medium,new,2.84,small,0
+3.77,12343,1766,small,new,2.93,small,0
+3.92,648274,61474,average,old,3.83,large,0
+4.14,7410567,236940,large,old,4.28,large,0
+4.03,2627137,106460,medium,new,3.96,large,0
+4.09,2005157,210817,small,new,4.18,large,0
+3.73,86472,3516,small,new,2.79,small,0
+1.3,915,389,very small,new,1.3,small,0
+4.45,332535,13767,medium,old,4.44,large,0
+3.86,7295829,154518,large,old,3.9,large,0
+3.25,2296,346,very small,new,2.9,small,0
+3.21,510177,20055,small,new,2.52,large,0
+3.54,2603,352,very small,new,2.58,small,0
+4.17,1036195,87024,small,new,4.29,large,0
+4.21,2589882,270016,medium,new,4.42,large,0
+4.07,413448,29455,small,new,4.07,large,0
+3.87,707197,78791,very small,new,3.97,large,0
+4.15,1540036,51513,large,old,4.38,large,0
+4.2,215190,24967,very small,new,4.23,large,0
+3.86,1099174,66047,large,old,3.79,large,0
+3.8,93810,10384,large,new,2.84,small,0
+3.99,1946995,100022,large,old,3.93,large,0
+4.09,881137,46481,medium,new,3.94,large,0
+3.75,3109462,136096,medium,new,3.68,large,0
+4.27,3848601,430360,small,new,3.81,large,0
+4.08,443343,47965,small,new,3.98,large,0
+3.86,380212,21679,large,old,4.0,large,0
+4.08,2151443,108389,medium,new,4.15,large,0
+4.14,185775,12436,very small,new,4.15,large,0
+4.03,135995,15284,very small,new,4.03,large,0
+3.73,41367,4854,large,new,2.66,small,0
+3.98,2784426,68613,medium,new,3.78,large,0
+4.05,521070,39806,small,new,4.17,large,0
+3.88,295156,13087,large,old,3.89,large,0
+4.06,17484898,775851,large,new,4.32,large,0
+4.15,1633640,39790,medium,new,4.19,large,0
+2.83,176,13,very small,new,2.83,small,0
+3.84,673324,48976,small,new,3.87,large,0
+2.88,623,56,very small,new,2.87,small,0
+2.92,1003,125,very small,new,2.73,small,0
+4.1,680401,38473,very small,new,4.1,large,0
+3.93,385025,34040,small,new,3.95,large,0
+4.36,8085953,673372,medium,new,4.27,large,0
+4.28,486972,15374,medium,old,4.38,large,0
+4.46,32199613,716327,large,new,4.43,large,0
+2.89,1085,250,very small,new,2.89,medium,0
+4.0,246817,13204,small,new,4.06,large,0
+3.87,602552,21300,medium,new,3.85,large,0
+4.13,756447,62830,small,new,4.18,large,0
+2.92,1770,202,small,new,2.87,medium,0
+2.6,2776,561,very small,old,2.7,small,0
+3.62,423340,43805,small,new,3.6,large,0
+4.22,2287629,119996,average,new,4.33,large,0
+4.04,431565,24119,medium,old,4.06,large,0
+2.89,22319,1081,medium,new,2.91,medium,0
+3.89,193864,1208,average,new,3.85,large,0
+3.88,1385551,106047,medium,new,3.89,large,0
+4.16,110627,2430,average,old,4.16,large,0
+3.87,185149,20457,large,new,2.77,small,0
+4.03,118969,8289,small,new,4.0,large,0
+2.77,835,162,small,new,2.59,small,0
+3.98,376551,46749,small,new,4.01,large,0
+4.06,17484617,775838,large,old,4.26,large,0
+4.21,485703,56800,medium,new,4.31,large,0
+2.06,1088,351,very small,new,1.74,small,0
+3.52,142084,15881,very small,new,3.53,large,0
+3.9,80678,5681,large,new,2.88,small,0
+4.21,2589882,270016,medium,new,4.26,large,0
+4.23,8430689,485059,average,new,4.29,large,0
+4.36,609684,33863,average,old,4.37,large,0
+4.26,14551657,471013,small,new,4.06,large,0
+3.29,726,162,very small,new,2.95,small,0
+4.04,3486465,218506,large,new,4.04,large,0
+2.92,1003,125,very small,new,2.94,small,0
+4.04,301379,35493,medium,new,3.82,large,0
+4.24,9638832,874566,medium,new,4.2,large,0
+3.89,402362,50430,small,new,3.81,large,0
+3.92,337887,46158,average,new,3.75,large,0
+4.02,384359,30380,small,new,4.0,large,0
+4.18,2310190,85792,large,old,4.3,large,0
+3.87,7967724,200537,average,new,3.9,large,0
+3.85,706186,64013,small,new,3.94,large,0
+3.77,308232,24809,small,new,3.79,large,0
+3.16,4543,694,small,new,2.9,medium,0
+3.12,1754,332,very small,new,2.97,medium,0
+2.97,2075,289,very small,new,2.95,medium,0
+3.57,2730,466,small,new,2.75,small,0
+4.16,7067649,179299,large,old,4.05,large,0
+4.4,89468,18610,very small,new,4.41,large,0
+4.17,2345929,77923,large,old,4.21,large,0
+1.62,773,146,small,new,1.54,small,0
+4.51,73595,7392,small,new,4.47,large,0
+4.08,883389,39003,medium,new,4.06,large,0
+3.84,695934,68308,small,new,3.75,large,0
+3.82,10571,415,medium,new,2.92,small,0
+2.82,799,107,very small,new,2.82,small,0
+4.06,17485116,775867,large,new,4.46,large,0
+4.17,1701537,237368,medium,new,4.19,large,0
+3.41,404850,9245,small,new,2.93,medium,0
+4.07,75603,10708,small,new,4.1,large,0
+3.94,241632,10748,large,old,3.96,large,0
+2.53,110,31,very small,new,2.52,small,0
+3.66,1260,424,small,new,2.7,small,0
+4.21,3294553,292072,average,new,4.42,large,0
+3.68,343085,9656,large,old,3.58,large,0
+3.96,117132,12589,very small,new,3.97,large,0
+3.87,711749,95191,very small,new,4.09,large,0
+2.85,457,132,small,new,2.56,small,0
+3.9,225783,9953,large,old,3.9,large,0
+4.24,83955,18133,very small,new,4.32,large,0
+3.94,1634737,124980,small,new,3.85,large,0
+3.99,711648,83219,small,new,4.07,large,0
+4.46,1572490,93424,medium,new,4.55,large,0
+4.36,152385,10160,very small,new,4.36,large,0
+4.03,6677085,294113,medium,new,2.72,medium,0
+3.97,1666786,107827,small,new,4.06,large,0
+3.89,68534,6454,average,new,2.91,small,0
+4.1,3288566,133159,medium,new,4.17,large,0
+3.86,771994,75013,small,new,3.98,large,0
+4.0,147813,4930,large,old,4.0,large,0
+4.03,448262,49194,small,new,4.25,large,0
+3.48,1266,354,very small,new,2.91,small,0
+4.26,2271485,270393,small,new,4.28,large,0
+4.03,1583115,95727,medium,new,4.21,large,0
+3.95,2764979,144706,medium,new,3.78,large,0
+4.02,321484,38720,small,new,4.09,large,0
+4.14,7410768,236954,large,old,3.84,large,0
+2.99,141,25,very small,new,2.99,small,0
+4.12,344433,32559,average,new,4.26,large,0
+3.64,22975,3238,small,new,2.98,medium,0
+2.06,1088,351,very small,new,2.42,small,0
+3.96,2767022,263017,medium,new,3.54,large,0
+4.06,359111,35076,small,new,4.04,large,0
+3.84,135748,27471,small,new,4.15,medium,0
+3.87,185149,20457,large,new,2.83,small,0
+4.18,175469,15402,very small,new,4.2,large,0
+4.06,17484898,775851,large,new,4.2,large,0
+4.12,183808,28174,medium,new,3.88,large,0
+3.98,376543,46749,small,new,3.88,large,0
+3.49,18132,1790,small,new,2.93,medium,0
+3.95,1515014,121188,small,new,4.06,large,0
+3.75,4424653,167742,small,new,3.83,large,0
+4.17,1701431,237356,medium,new,4.23,large,0
+3.78,1665108,166468,small,new,3.57,large,0
+4.04,728872,85475,small,new,4.19,large,0
+4.01,98214,8594,medium,new,4.04,large,0
+4.2,901999,100957,small,new,4.35,large,0
+3.8,2368,207,medium,new,1.51,small,0
+3.93,399522,40667,very small,new,3.97,large,0
+3.86,654657,63903,very small,new,3.81,large,0
+4.17,4852880,160529,medium,new,4.16,large,0
+4.26,177237,5756,average,old,4.34,large,0
+3.77,297878,12798,large,old,3.76,large,0
+3.46,1246,156,medium,new,2.78,small,0
+4.0,8873839,413756,small,new,3.72,large,0
+4.06,751443,50594,small,new,4.07,large,0
+4.21,3294553,292072,average,new,4.23,large,0
+3.0,912,282,very small,new,2.94,small,0
+3.93,363013,14270,small,new,3.92,large,0
+4.38,729679,128337,medium,new,4.44,large,0
+3.62,136271,25225,very small,new,3.59,large,0
+3.91,40446,7648,very small,new,3.91,large,0
+3.97,66499,12248,medium,new,2.85,medium,0
+4.09,239119,21233,medium,new,4.09,large,0
+4.08,2151443,108389,medium,new,3.97,large,0
+4.55,81683,11940,small,new,4.57,large,0
+3.91,5107601,118141,large,old,3.8,large,0
+4.27,3847577,430281,small,new,4.46,large,0
+4.4,4949957,344988,large,new,4.47,large,0
+3.89,684654,31211,average,old,3.9,large,0
+4.12,651374,88754,very small,new,4.15,large,0
+3.7,13467,1828,average,new,2.75,small,0
+4.15,1523417,155114,small,new,3.88,large,0
+3.73,1158,156,medium,new,2.74,small,0
+4.16,1079710,59747,average,new,4.14,large,0
+3.88,890,184,small,new,2.93,small,0
+4.12,613422,47259,medium,new,4.18,large,0
+3.85,52855,4085,large,new,2.72,small,0
+4.36,166358,13497,very small,new,4.36,large,0
+4.01,1538963,115892,small,new,4.09,large,0
+1.74,1485,367,very small,new,1.84,small,0
+3.92,1427808,98476,small,new,3.93,large,0
+3.31,891,150,small,new,2.69,small,0
+4.24,9638832,874566,medium,new,4.26,large,0
+2.14,1120,436,very small,new,2.04,small,0
+3.94,3519871,139555,average,new,2.86,medium,0
+4.05,422872,41734,average,new,4.08,large,0
+4.02,694982,93391,large,new,3.82,large,0
+4.35,10073631,175261,large,old,4.55,large,0
+4.05,134340,24321,small,new,4.27,large,0
+4.21,65669,2052,average,new,2.96,small,0
+3.15,2005,363,small,new,2.8,small,0
+3.69,2279140,116284,small,new,4.05,large,0
+4.01,2107597,84513,small,new,3.83,large,0
+3.53,622,128,very small,new,3.06,small,0
+3.83,2446549,97599,large,old,4.03,large,0
+4.14,7226538,450339,large,new,4.15,large,0
+3.68,8401,896,small,new,2.95,small,0
+3.7,91995,17468,very small,new,3.75,large,0
+2.93,1107,169,small,new,2.78,small,0
+3.83,2446525,97595,large,old,3.81,large,0
+3.79,348051,35276,small,new,3.82,large,0
+4.18,3446416,39176,medium,old,4.18,large,0
+3.36,925,139,very small,new,2.73,small,0
+3.9,8567,1425,small,new,2.8,small,0
+3.34,5892,1526,small,new,2.97,small,0
+4.17,1701292,237346,medium,new,4.22,large,0
+3.85,1336716,117743,small,new,4.14,large,0
+4.14,3884884,114659,large,new,4.33,large,0
+3.76,254886,28396,very small,new,3.76,large,0
+2.98,733,410,very small,new,2.91,small,0
+4.08,1002450,22444,small,old,4.05,large,0
+3.85,240710,26287,very small,new,3.85,large,0
+3.82,664408,28165,small,new,3.75,large,0
+3.33,6192,1073,small,new,2.79,medium,0
+3.22,70422,9251,small,new,2.97,medium,0
+4.15,1633640,39790,medium,new,4.03,large,0
+3.14,1294,294,very small,new,2.75,small,0
+2.45,1796,433,small,new,2.06,small,0
+4.1,1259283,46344,small,old,4.12,large,0
+3.22,8082,1896,very small,new,2.89,small,0
+4.1,126130,16308,very small,new,4.09,large,0
+4.28,2218681,125438,average,new,4.16,large,0
+4.31,591334,79555,small,new,4.34,large,0
+3.04,1204,192,very small,new,2.8,small,0
+4.4,4950089,344996,large,new,4.65,large,0
+4.0,1154518,87030,small,new,4.1,large,0
+4.46,32199613,716327,large,new,4.5,large,0
+4.21,2589749,270000,medium,new,4.13,large,0
+4.23,5795812,139973,medium,new,3.31,large,0
+2.79,419,121,very small,new,2.79,small,0
+3.75,3109459,136095,medium,new,3.84,large,0
+3.32,3790,832,very small,new,2.9,medium,0
+4.09,214478,24004,small,new,3.86,large,0
+3.97,177814,22261,small,new,4.04,large,0
+3.96,406198,58486,small,new,4.07,large,0
+4.02,151826,19747,small,new,4.04,large,0
+4.22,89964,5367,medium,old,4.23,large,0
+3.88,266030,17835,very small,old,3.88,large,0
+3.81,1643267,66729,small,new,3.87,large,0
+3.05,17319,2493,very small,new,2.85,medium,0
+3.96,61613,5548,average,new,2.86,small,0
+4.02,1436037,65349,large,old,4.02,large,0
+3.9,1002273,113174,medium,new,4.03,large,0
+4.06,16049,416,average,new,2.73,small,0
+3.99,3603626,223840,small,new,4.1,large,0
+3.42,2287,398,very small,new,2.93,small,0
+3.72,61211,10022,very small,new,3.73,large,0
+3.22,8082,1896,very small,new,2.07,small,0
+3.22,5578,192,average,new,2.86,small,0
+3.57,31847,3517,average,new,2.95,small,0
+3.98,176295,16812,very small,new,3.89,large,0
+3.87,93822,4670,large,old,3.85,large,0
+4.11,486457,23285,small,new,4.13,large,0
+3.28,1186,171,very small,new,2.72,small,0
+3.94,1634737,124980,small,new,3.94,large,0
+3.81,230785,9537,large,old,3.84,large,0
+2.89,22319,1081,medium,old,2.95,medium,0
+3.33,2713,294,small,new,2.8,small,0
+4.2,306036,18367,small,new,4.21,large,0
+3.71,473460,44905,small,new,3.52,large,0
+3.76,128826,7264,medium,new,2.95,medium,0
+3.87,135227,13517,small,new,3.87,large,0
+3.98,474287,45324,small,new,4.05,large,0
+4.22,1454659,65914,average,new,4.17,large,0
+3.48,203248,20712,small,new,3.49,large,0
+3.72,400482,63948,average,new,3.68,large,0
+4.03,748734,76103,small,new,4.14,large,0
+2.86,338,40,very small,new,2.86,small,0
+3.7,144865,25372,small,new,3.53,large,0
+4.12,544313,19552,average,old,4.03,large,0
+4.07,2787191,100770,large,old,4.09,large,0
+3.94,1830702,68280,small,new,3.99,large,0
+4.0,692989,44204,large,old,2.99,medium,0
+3.86,654642,63903,very small,new,3.86,large,0
+3.68,13006065,387890,medium,new,3.85,large,0
+4.07,1522375,109106,average,new,4.13,large,0
+3.05,20869,1573,large,new,2.78,medium,0
+3.59,307708,11438,medium,new,2.51,medium,0
+4.36,8085275,673336,medium,new,4.48,large,0
+3.52,101838,23576,very small,new,3.57,large,0
+3.53,1625,172,medium,new,2.78,small,0
+4.59,249076,31464,very small,new,4.59,large,0
+4.13,505290,34239,small,new,4.28,large,0
+4.21,290107,23344,very small,new,4.2,large,0
+2.88,3712,464,small,new,2.82,medium,0
+3.91,1569054,57986,small,new,3.93,large,0
+4.17,231021,18751,very small,new,4.16,large,0
+3.0,1277,312,very small,new,3.0,medium,0
+4.1,207786,23624,small,new,4.08,large,0
+3.87,212731,32333,small,new,3.95,large,0
+4.07,1257997,85583,large,old,4.01,large,0
+2.82,168,31,very small,new,2.82,small,0
+3.75,500075,49620,small,new,3.64,large,0
+4.13,1187810,149821,very small,new,4.01,large,0
+3.9,1002342,113179,medium,new,3.65,large,0
+4.15,51896,12698,very small,new,4.15,large,0
+3.99,60645,7688,very small,new,3.98,large,0
+4.23,8430713,485060,average,new,4.09,large,0
+3.08,3979,850,very small,new,2.9,medium,0
+3.57,37973,4159,small,new,2.73,medium,0
+4.23,5795640,139969,medium,old,4.27,large,0
+4.16,7067589,179295,large,old,4.34,large,0
+3.98,128417,18302,very small,new,4.03,large,0
+3.68,743254,31589,medium,new,3.59,large,0
+3.68,470379,41727,small,new,3.76,large,0
+3.7,358832,17697,large,old,3.7,large,0
+3.93,261296,27655,small,new,4.07,large,0
+4.01,1019490,45647,medium,new,4.24,large,0
+4.1,285802,8170,medium,new,4.13,large,0
+3.95,1515062,121192,small,new,3.97,large,0
+4.32,824595,70577,small,new,4.3,large,0
+3.82,158359,15904,large,new,2.92,small,0
+3.57,664896,30878,large,old,3.53,large,0
+4.25,466985,16798,medium,old,4.38,large,0
+3.99,2966177,120429,large,old,4.15,large,0
+3.82,1036312,56960,medium,new,3.77,large,0
+3.79,479694,31904,large,old,3.96,large,0
+3.55,42777,1249,small,new,2.59,small,0
+2.89,559,66,very small,new,2.89,small,0
+2.84,11985,1328,very small,new,2.84,medium,0
+4.04,215548,36148,small,new,4.05,large,0
+2.86,1349,424,small,new,2.09,small,0
+3.48,961,197,very small,new,2.9,small,0
+4.3,743089,63894,small,new,4.39,large,0
+2.89,4289,253,small,new,2.77,small,0
+4.02,698105,26920,average,new,3.9,large,0
+3.91,3609421,121932,large,old,3.79,large,0
+3.72,32787,3625,medium,new,2.92,medium,0
+4.17,3659317,407612,medium,new,4.49,large,0
+3.46,67355,5817,large,new,3.02,small,0
+4.32,145037,12607,small,new,4.35,large,0
+3.7,959456,56710,large,new,2.91,medium,0
+4.01,1111519,18062,average,old,4.04,large,0
+3.56,249464,29195,small,new,2.93,medium,0
+4.02,1406741,95514,small,old,4.16,large,0
+4.07,87088,3771,small,new,2.88,medium,0
+4.05,1909306,216951,small,new,3.95,large,0
+3.65,10846,1837,medium,new,2.95,small,0
+3.87,403715,37800,small,new,3.87,large,0
+4.13,1478207,69875,average,new,4.16,large,0
+3.96,422550,37908,medium,new,3.92,large,0
+4.27,3848195,430320,small,new,4.26,large,0
+4.09,1514160,146950,very small,new,4.17,large,0
+3.86,1075244,91140,small,new,3.78,large,0
+4.03,370132,15059,large,old,4.07,large,0
+4.46,1572436,93422,medium,new,4.52,large,0
+3.99,2257526,229455,medium,new,3.97,large,0
+2.91,1294,223,very small,new,2.91,medium,0
+4.46,113948,9697,small,new,4.47,large,0
+4.15,1056468,34645,large,old,4.01,large,0
+3.46,947803,27917,large,old,3.43,large,0
+4.03,616403,37937,medium,new,4.1,large,0
+4.35,305117,21747,small,new,4.41,large,0
+3.51,1874,203,very small,new,2.85,small,0
+3.79,17166,2381,small,new,2.73,small,0
+3.95,3271355,221863,small,new,3.58,large,0
+3.84,135700,27467,small,new,3.76,large,0
+4.2,522317,45948,small,new,4.22,large,0
+4.26,2271354,270378,small,new,4.37,large,0
+3.89,501391,62909,small,new,3.97,large,0
+4.14,7410613,236945,large,old,4.04,large,0
+3.78,232128,12935,large,old,3.63,large,0
+3.91,3609346,121924,large,new,2.93,small,0
+3.97,642536,27961,large,old,3.99,large,0
+3.87,1452643,59872,medium,new,2.96,medium,0
+4.0,1154503,87029,small,new,3.99,large,0
+3.96,2766957,263016,medium,new,3.97,large,0
+3.65,254745,32131,medium,new,3.58,large,0
+3.92,594011,39659,large,new,2.82,small,0
+4.08,50137,7221,very small,new,4.12,large,0
+4.34,3015046,42829,average,old,4.35,large,0
+4.15,1633601,39790,medium,new,4.16,large,0
+4.0,192159,31034,small,new,4.07,large,0
+2.88,1363,299,very small,new,2.88,medium,0
+3.87,185148,20457,large,new,2.97,small,0
+3.92,1014602,64007,medium,new,3.91,large,0
+3.98,663103,40693,medium,new,4.01,large,0
+2.76,3648,642,medium,new,2.27,small,0
+3.78,1187424,108270,small,new,3.65,large,0
+4.03,1583136,95729,medium,new,4.06,large,0
+2.68,573,231,very small,new,2.68,small,0
+3.79,362345,45488,small,new,4.03,large,0
+4.03,448266,49196,small,new,3.85,large,0
+4.08,1913891,162394,average,new,4.26,large,0
+3.02,2910,236,very small,new,2.86,medium,0
+3.5,74051,9711,small,new,2.94,medium,0
+4.19,118495,11616,small,new,4.21,large,0
+4.23,8430713,485060,average,new,4.4,large,0
+3.69,2279140,116284,small,new,3.95,large,0
+4.47,243297,15363,medium,new,4.47,large,0
+3.1,5563,1303,small,new,2.52,small,0
+3.9,177019,11727,large,old,3.99,large,0
+3.74,63188,13048,very small,new,3.74,large,0
+3.96,949773,41166,very small,new,3.96,large,0
+3.41,1688,132,very small,new,2.97,small,0
+2.78,1006,64,very small,new,2.76,small,0
+3.94,2278946,66569,average,new,3.8,large,0
+3.15,1936,332,very small,new,2.88,small,0
+4.23,8430713,485060,average,new,4.56,large,0
+3.09,2401,325,small,new,2.92,small,0
+3.17,40875,9436,average,new,2.74,medium,0
+3.73,41367,4854,large,new,2.7,small,0
+4.23,8430689,485059,average,new,4.13,large,0
+3.2,424,257,very small,new,2.92,small,0
+4.06,17485061,775865,large,new,4.12,large,0
+3.87,311380,45135,very small,new,3.87,large,0
+4.2,395802,25317,small,new,4.15,large,0
+3.18,304,64,small,new,2.54,small,0
+4.11,58380,5901,medium,new,2.98,small,0
+2.95,2972,298,small,new,2.94,medium,0
+4.24,9638832,874566,medium,new,4.28,large,0
+4.15,212487,22695,small,new,4.12,large,0
+3.84,1580588,86182,medium,new,3.85,large,0
+3.82,1238347,50189,large,old,3.64,large,0
+3.35,132755,6145,small,new,2.96,medium,0
+3.2,2054,281,very small,new,2.96,small,0
+3.85,188425,14913,medium,new,3.84,large,0
+3.89,3113071,158298,small,new,3.5,large,0
+4.32,824572,70577,small,new,4.46,large,0
+3.93,1245740,68909,large,old,4.09,large,0
+4.38,88310,7406,very small,new,4.38,large,0
+3.88,348717,1055,small,old,3.87,large,0
+4.21,3294553,292072,average,new,4.11,large,0
+3.65,132036,18639,small,new,2.94,medium,0
+3.49,270035,26165,small,new,3.83,large,0
+2.82,394,47,very small,new,2.88,small,0
+4.45,123444,13643,very small,new,4.45,large,0
+3.91,5107397,118138,large,old,3.93,large,0
+4.04,917348,58921,medium,new,4.03,large,0
+3.93,1104,189,very small,new,2.97,small,0
+4.36,8085813,673367,medium,new,4.56,large,0
+4.36,8085275,673336,medium,new,4.42,large,0
+4.31,3556497,296620,medium,new,4.14,large,0
+3.68,13006232,387893,medium,new,3.72,large,0
+3.54,13838,3501,very small,new,3.49,medium,0
+3.94,1006296,30319,medium,new,3.95,large,0
+3.98,142216,3988,medium,new,3.99,large,0
+3.22,5578,192,average,new,2.89,small,0
+3.78,226465,10317,small,old,3.78,large,0
+3.84,63748,7883,small,new,2.69,medium,0
+4.17,3659560,407634,medium,new,3.84,large,0
+3.9,141130,7868,large,new,2.91,small,0
+3.93,399522,40667,very small,new,3.95,large,0
+4.24,9639290,874594,medium,new,4.33,large,0
+3.04,631,81,very small,new,2.92,small,0
+2.34,724,155,very small,new,2.34,small,0
+3.97,817675,23025,small,old,3.99,large,0
+4.29,989780,60186,medium,new,4.29,large,0
+4.17,1997007,34613,average,old,4.19,large,0
+4.09,175511,9282,large,new,2.75,small,0
+4.06,544129,75985,small,new,3.95,large,0
+3.8,3889259,172390,average,new,3.9,large,0
+4.22,1206781,23221,average,old,4.23,large,0
+4.36,99237,14466,very small,new,4.36,large,0
+3.69,2685635,50212,medium,old,3.69,large,0
+4.17,1036190,87024,small,new,2.99,small,0
+3.16,1281,307,very small,new,2.93,small,0
+3.23,2277,292,small,new,2.78,small,0
+3.88,87615,18913,very small,new,3.88,large,0
+2.39,3234,1117,very small,new,1.91,small,0
+3.19,1005,142,small,new,2.93,small,0
+3.96,680773,55356,very small,new,3.96,large,0
+4.04,98375,11139,small,new,4.11,large,0
+4.49,112561,13129,small,new,4.51,large,0
+2.8,670,150,very small,new,2.74,small,0
+3.9,146928,11656,medium,new,4.04,large,0
+4.12,673448,47749,medium,new,4.29,large,0
+4.03,500348,18002,large,old,3.96,large,0
+4.39,101991,8864,small,new,4.39,large,0
+4.37,43949,6078,small,new,4.4,large,0
+3.99,3603898,223858,small,new,3.67,large,0
+3.75,4424543,167741,small,new,3.66,large,0
+3.64,48939,4949,small,new,2.64,medium,0
+4.06,303086,35484,average,new,4.18,large,0
+3.7,959456,56710,large,new,2.83,medium,0
+2.7,4244,442,very small,new,2.58,medium,0
+3.86,7295856,154518,large,old,3.95,large,0
+3.24,6224,565,small,new,2.83,small,0
+4.0,1031772,123843,very small,new,4.03,large,0
+3.69,7087,905,average,new,2.65,small,0
+3.02,537,73,very small,new,2.43,small,0
+4.46,32200425,716343,large,new,4.19,large,0
+3.74,1097044,75318,average,new,3.93,large,0
+4.49,212975,28557,very small,new,4.44,large,0
+4.11,136834,6910,small,old,4.16,large,0
+4.13,849238,20611,large,new,4.15,large,0
+4.16,1422554,38142,large,old,4.15,large,0
+2.76,1633,397,very small,new,2.44,small,0
+2.89,4289,253,small,new,2.77,small,0
+4.27,3848367,430331,small,new,4.09,large,0
+3.84,88656,4241,small,new,3.87,large,0
+4.26,14551351,471004,small,new,4.32,large,0
+3.69,251603,28845,very small,new,3.7,large,0
+3.99,345996,30768,small,new,4.03,large,0
+4.21,3294466,292070,average,new,4.15,large,0
+3.82,2372006,54763,small,new,3.84,large,0
+3.78,1187320,108261,small,new,3.69,large,0
+3.84,650844,13906,large,new,2.7,small,0
+4.34,1200209,39501,average,old,4.36,large,0
+3.87,2667951,76866,average,new,4.08,large,0
+3.91,192097,33234,very small,new,4.08,large,0
+4.07,2611584,131252,large,new,4.07,large,0
+3.83,633775,57334,small,new,4.13,large,0
+4.2,1640166,86283,small,new,4.22,large,0
+3.6,1171751,68896,small,new,3.63,large,0
+4.17,4852942,160529,medium,new,4.25,large,0
+4.16,50061,6516,very small,new,4.19,large,0
+2.25,103,61,very small,new,2.25,small,0
+3.66,27562,3779,small,new,2.96,medium,0
+4.38,729747,128345,medium,new,4.19,large,0
+3.26,1098,195,small,new,2.63,small,0
+3.25,2300,491,small,new,2.84,small,0
+3.86,673575,32752,large,old,3.95,large,0
+3.86,955826,36481,medium,new,3.92,large,0
+3.94,193498,36372,small,new,4.08,large,0
+4.3,281118,47891,small,new,4.26,large,0
+4.13,1187570,149802,very small,new,4.26,large,0
+4.11,3003022,213734,medium,new,4.12,large,0
+4.3,934711,63078,small,new,4.39,large,0
+3.97,1030443,82303,medium,new,4.07,large,0
+4.29,71704,6426,medium,new,3.92,medium,0
+4.19,1947631,101858,large,old,4.25,large,0
+3.84,283099,12581,large,old,3.78,large,0
+4.23,708018,26772,average,old,4.25,large,0
+4.36,410151,46054,small,new,4.13,large,0
+3.46,67355,5817,large,new,2.42,medium,0
+4.37,6423128,220105,large,new,4.15,large,0
+3.79,1194214,52807,medium,new,3.72,large,0
+4.13,132150,1812,very small,new,4.13,large,0
+3.71,491312,25276,small,new,3.82,large,0
+4.08,128132,22623,very small,new,4.28,large,0
+4.33,4717719,195536,small,new,4.33,large,0
+3.35,3582,381,very small,new,2.66,small,0
+3.98,293522,23559,very small,new,3.99,large,0
+4.16,1044991,70115,small,new,4.15,large,0
+3.9,91741,7210,very small,new,3.88,large,0
+4.21,2589882,270016,medium,new,4.43,large,0
+4.35,10073413,175255,large,old,4.38,large,0
+2.76,357,63,very small,new,2.75,small,0
+4.25,502750,24160,average,new,3.91,large,0
+4.02,1435968,65346,large,old,4.01,large,0
+4.06,4699806,273615,small,new,4.11,large,0
+4.15,1539993,51513,large,old,2.46,small,0
+2.89,1977,191,very small,new,2.89,medium,0
+3.91,67113,4793,small,new,2.68,medium,0
+3.79,133753,4969,large,old,3.8,large,0
+3.84,75005,13682,small,new,3.71,large,0
+3.84,1514834,29713,large,old,3.79,large,0
+3.68,13006278,387894,medium,new,3.72,large,0
+4.1,696075,54447,medium,new,4.17,large,0
+4.05,901390,68723,medium,new,3.88,large,0
+4.09,2906111,278344,average,new,3.55,large,0
+4.3,440150,36353,small,new,4.3,large,0
+4.06,17485116,775867,large,new,4.22,large,0
+3.85,318418,36859,small,new,3.95,large,0
+4.03,75583,4554,small,new,4.03,large,0
+3.62,126031,9835,medium,new,2.79,medium,0
+4.46,32199008,716314,large,new,4.47,large,0
+4.52,100472,10225,small,new,4.52,large,0
+3.91,3609421,121932,large,old,3.86,large,0
+3.86,835020,64118,very small,new,3.89,large,0
+3.88,19120,678,medium,new,2.7,small,0
+4.0,21274,1534,very small,new,3.01,medium,0
+3.1,5563,1303,small,new,2.84,medium,0
+3.84,83837,1885,small,new,3.84,large,0
+4.0,8873634,413752,small,new,3.98,large,0
+4.0,1154517,87030,small,new,3.86,large,0
+4.35,10073709,175264,large,old,3.98,large,0
+4.17,2345921,77922,large,old,4.17,large,0
+4.01,203831,33510,small,new,4.05,large,0
+3.55,16970,2055,very small,new,3.04,medium,0
+2.98,321,89,very small,new,2.94,small,0
+3.94,309225,18599,small,new,3.95,large,0
+3.77,404072,64717,small,new,3.82,large,0
+3.85,186657,6711,large,old,3.83,large,0
+4.08,52854,8325,very small,new,4.08,large,0
+3.9,1002179,113163,medium,new,4.05,large,0
+4.02,698105,26920,average,old,4.15,large,0
+2.49,1398,103,very small,new,2.51,medium,0
+3.47,5100,1011,very small,new,2.93,medium,0
+3.83,378881,30796,average,old,3.98,large,0
+4.0,1050289,75791,average,new,4.03,large,0
+4.31,3556263,296614,medium,new,4.6,large,0
+3.98,156435,18528,small,new,3.99,large,0
+4.27,499214,49085,average,new,4.07,large,0
+4.2,901968,100953,small,new,4.32,large,0
+4.2,817207,96336,small,new,4.23,large,0
+4.0,245776,16476,small,new,3.95,large,0
+3.4,903,160,very small,new,2.71,small,0
+2.9,4224,349,small,new,2.82,medium,0
+4.02,5724594,337947,large,old,4.06,large,0
+4.23,353862,48530,small,new,4.1,large,0
+3.87,15137,1503,medium,new,2.86,small,0
+3.88,1385551,106047,medium,new,3.96,large,0
+4.28,448442,25874,small,old,4.29,large,0
+3.58,6388,851,very small,new,2.58,small,0
