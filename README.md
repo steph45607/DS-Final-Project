@@ -21,3 +21,32 @@ Test ideas and code for Data Science Final Project
 ## Goal
 To know if the increase or decrease of book rating is affected by the top-rated books section.
 
+### .ipynb files and what it does
+1. assignment plot.ipynb
+   * Class assignment on SVM
+2. Author_Details.ipynb
+   * Scraping author page
+   * Get information such as
+     * name
+     * average rating
+     * number of ratings
+     * number of reviews
+3. Author.ipynb
+   * same with author_details.ipnyb
+   * add number of distinct works
+4. BERTTest.ipynb
+   * test BERT
+   * using book descriptions to recommend other books
+5. Fix_Missing.ipynb
+   * clean out all missing titles from the list
+   * return a new csv
+6. GetBookInfoAll.ipynb
+   * Get book info such as
+     * Title
+     * Author
+     * Year
+     * Rating
+     * Raters
+     * Genre
+7. hierarchical.ipynb
+   * 
