@@ -31,7 +31,15 @@ To find the most and least applicable machine learning technique for our origina
    * contains all the unsupervised machine learning technique code testings
 4. Unused Folder 
    * contains all the unused files that we did not end up using for our final dataset and testing. For documentation purposes, we decided to keep them.
-
+5. CombinedBooks.csv
+   * initial scraped combined books dataset.
+6. CombinedBooksClass.csv
+   * classified combined books dataset.
+7. CombinedBooksCleaned.csv
+   * cleaned combined books dataset.
+8. CombinedBooksRandomized.csv
+   * final dataset used for testings and machine learning techniques
+   
 ### Testing History 
 Here is the testing spreadsheet containing all the test scrapes we have done. However to note, these sheets are no longer used for our research. Instead they are our testing logs and documentation for us to fully grasp scraping, munging, and dataset preprocessing. 
 * https://docs.google.com/spreadsheets/d/1mj1YRoDM-0qGcZRHSwyQGx_OG_dH1i17LsM1brKqxjw/edit?usp=sharing
